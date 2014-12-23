@@ -1,4 +1,5 @@
-prog-project
+Programming project course
 ============
 
-Programming project course
+UvA
+Creative commons
