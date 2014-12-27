@@ -24,6 +24,8 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 ### Android
 
+- Your app's source code should be managed in an **Android Studio** project.
+
 - The application should have a minimum SDK API level of 7. You may use a later version if and only if some feature important to your project requires it. If this is the case, you may modify your project to use a later API version but you must mark in your source code, using Java comments, the precise line that requires the API version you are using. Be sure the text API CHANGE appears in your comment so that we can easily find it via a search.
 
 - Under no circumstances should we be able to cause your program to crash at runtime.
@@ -33,6 +35,8 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 - You must include your name, email, and student ID in a comment atop every Java source file in the project.
 
 ### iOS
+
+- Your app's source code should be managed in an **Xcode 6.1** project.
 
 - Your app's UI should be sized for an iPhone or iPod touch (i.e., 320 &times; 480 points) or for an iPad (i.e., 768 &times; 1024 points).
 
