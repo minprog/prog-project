@@ -13,8 +13,7 @@ folowing aspects of your application:
 - a preliminary sketch of what the application will look like
 
 - what data sets and data sources will you need, how you will get the data into
-  the right form for your app, and if you need to do this only once, regularly
-  or continuously
+  the right form for your app
 
 - what separate parts of the application can be defined (decomposing the
   problem) and how these should work together
@@ -24,6 +23,8 @@ folowing aspects of your application:
 
 - potential problems that may arise during development and what possibilities
   you have to overcome these
+
+- a short review of similar applications or visualisations in terms of features and possibly technical aspects
 
 The proposal document should be well-written and clearly formatted. Do not
 forget to include a title, your name, and a paragraph summary of the
