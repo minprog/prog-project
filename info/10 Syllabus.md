@@ -1,57 +1,73 @@
-This is the final project. Your way out. Or your way in. Your masterpiece.
+*This is a beta version of the syllabus. It will be changed.*
 
-## Overview
+The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go simply out in the world and start creating your own software.
 
-The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go out in the world and start creating your own software.
+## Expectations
 
-## To do
+You only have four weeks to complete this course, so deadlines are tight. Here's what we expect you to do in those four weeks:
 
-### Create your own software project
+### Create your own software project ###
 
-### Attend many guest lectures
+Most of the time you will be writing code to create some sort of visualization tool or mobile app. Above all, we expect your application to solve some kind of clearly defined problem for the user(s). At the end of the month, you need to delived a *fully functional* application that solves that problem.
 
-### Present your project at the end of the course
+### Attend daily standup meetings and Friday presentations ###
 
+You will be assigned a *mentor* who you will meet every morning at 10:00, 10:30 or 11:00 together with at most 10 other students. During this daily standup meeting you are expected to briefly report on progress and share your plans for the day. This provides you with an opportunity to see if other students will be tackling the same problem as you, and work together on said problem.
 
+Each Friday, you are expected to present to your mentor and fellow students the progress you have made on your application. The meetings will take place at around 13:00--15:00 in the afternoon.
 
+### Prepare yourself by reading documentation, sharing, and attending workshops ###
+
+Creating software consists of reading documentation as much as it consists of writing code. During this project, you will be on your own most of the time. Hence, you need to prepare yourself daily by reading up on concepts that you will apply and on problems that you encounter.
+
+We also expect you to liberally share your knowledge with other students and at the same time ask lots of questions. For some topics that pertain to most students, there will be small workshops taught by the staff. We expect you to attend these if you need to.
+
+### Attend many guest lectures ###
+
+During the month, several guest lectures will take place. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. Lectures normally take place at 14:00 in the afternoon. You are allowed to miss one of these lectures, but as a general rule, you need to attend them all.
+
+### Create a process book documenting your project ###
+
+Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. This will help us grade your project.
+
+Besides that, it will guide you through the process of implementation. That is why in the first week, you will spend quite some time creating a first version of the process book.
+
+### Present your project at the end of the course ###
+
+The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 30 January, in the afternoon.
 
 ## Assessment
 
-Your pre-proposal, proposal, and status report will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
+Your proposal and weekly presentations will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
 
-Scope
-: To what extent does your code implement the features required by our specification?
+**Scope**
+: To what extent does your code implement the features as agreed upon?
 
-Correctness
-: To what extent is your code consistent with our specifications and free of bugs?
+**Correctness**
+: To what extent is your code consistent with our requirements and free of bugs?
 
-Design
+**Design**
 : To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?
 
-Style
+**Style**
 : To what extent is your code readable (i.e., commented and indented with variables aptly named)?
 
 ## Schedule
 
-### Pre-Proposal
-due by noon on Mon 11/3
+**Proposal and technical set-up**
+: due by Tue 6 January at 23:59
 
-### Proposal
-due by noon on Mon 11/10
+**Design document and prototype user interface**
+: due by Fri 9 January at noon
 
-### Status Report
-due by noon on Mon 12/1
+**Implementation**
+: due by Thu 29 January at 23:59
 
-### CS50 Hackathon
-from 7pm on Wed 12/3 until 7am on Thu 12/4
-
-### Implementation
-due by noon on Sun 12/7
-
-### CS50 Fair
-from 11am until 4:30pm on Mon 12/8
+**Exhibition**
+: from 12:00--18:00 on Fri 30 January
 
 ## Deadlines
 
-Extensions on the final project are not granted, except in cases of emergency. Technical difficulties are not considered emergencies. Submitting more than seven minutes late is equivalent to not submitting at all.
+Extensions on projects, documentation and set-up are not granted, except in cases of emergency. If you ask for an exception *after* the deadline we require that you see a student advisor. Technical difficulties do not constitute emergencies.
 
+Projects submitted n hours late may be penalized by 10% for n in (0, 24], by 25% for n in (24, 48], by 50% for n in (48, 72], and by 100% for n greater than 72. Lateness will be determined by submissions' timestamps.
