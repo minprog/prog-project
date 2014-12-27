@@ -24,7 +24,7 @@ folowing aspects of your application:
 - potential problems that may arise during development and what possibilities
   you have to overcome these
 
-- a short review of similar applications or visualisations in terms of features and possibly technical aspects
+- a short review of similar applications or visualizations in terms of features and possibly technical aspects
 
 The proposal document should be well-written and clearly formatted. Do not
 forget to include a title, your name, and a paragraph summary of the
@@ -62,11 +62,14 @@ staff and your fellow students can spot if there are fundamental
 problems that need to be solved, or if there technical limitations that will
 prevent you from finishing the application.
 
+First of all, be sure to make clear which parts of the application define the *minimum viable product* and which parts may be optional to implement.
+
 Use the decomposition you made earlier to map parts of the solution on the
 framework(s) that you are using. Think about and fully express how the user
 interface will be handled, where the data is coming from, and how the various
-parts will work together to form a complete application. It is expected that
-you separate the user interface from the data provider whenever possible.
+parts will work together to form a complete application. Remember, it is
+expected that you separate the user interface from the data provider whenever
+possible.
 
 Some parts that you may describe here:
 
@@ -97,4 +100,14 @@ fundamental problems in later weeks.
 
 ### Submitting
 
-You will need to submit your prototype code by *push*ing it to GitHub. Your design document should be an evolution of the proposal in the project Wiki. (GitHub wikis track changes, so we can always look at older versions if needed.)
+You will need to submit your prototype code by *push*ing it to GitHub. Your
+design document should be an evolution of the proposal in the project Wiki.
+(GitHub wikis track changes, so we can always look at older versions if needed.)
+
+### Presenting
+
+You are to present your progress on Friday, thereby using the materials and
+prototype you have created. To make your fellow students and your mentor fully
+understand what you will be building, prepare a very short demo of the
+different mockup screens. Then, show how the application will be built
+technically.

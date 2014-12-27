@@ -60,6 +60,12 @@ Your proposal and weekly presentations will be evaluated on the bases of, at lea
 **Design document and prototype user interface**
 : due by Fri 9 January at noon
 
+**Beta version**
+: due by Fri 16 January at noon
+
+**Minimum viable product**
+: due by Fri 23 January at noon
+
 **Implementation**
 : due by Thu 29 January at 23:59
 
@@ -68,6 +74,6 @@ Your proposal and weekly presentations will be evaluated on the bases of, at lea
 
 ## Deadlines
 
-Extensions on projects, documentation and set-up are not granted, except in cases of emergency. If you ask for an exception *after* the deadline we require that you see a student advisor. Technical difficulties do not constitute emergencies.
+Extensions on projects, documentation and set-up are not granted, except in cases of emergency. Technical difficulties do not constitute emergencies. If you ask for an exception *after* the deadline we require that you see a student advisor.
 
 Projects submitted n hours late may be penalized by 10% for n in (0, 24], by 25% for n in (24, 48], by 50% for n in (48, 72], and by 100% for n greater than 72. Lateness will be determined by submissions' timestamps.
