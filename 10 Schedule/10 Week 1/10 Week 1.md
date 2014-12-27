@@ -56,9 +56,9 @@ go to the GitHub website and put your proposal document on the project Wiki.
 
 ## Framing your problem in terms of the framework (deadline: Friday)
 
-Based on your proposal you can now start studying your problem in a more
-technical fashion. During this phase of defining your application the teaching
-staff and your fellow students can more easily spot if there are fundamental
+Based on your proposal, you can now start studying your problem in a more
+technical fashion. During this phase of defining your application, the teaching
+staff and your fellow students can spot if there are fundamental
 problems that need to be solved, or if there technical limitations that will
 prevent you from finishing the application.
 
