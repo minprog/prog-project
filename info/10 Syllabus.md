@@ -16,6 +16,10 @@ You will be assigned a *mentor* who you will meet every morning at 10:00, 10:30 
 
 Each Friday, you are expected to present to your mentor and fellow students the progress you have made on your application. The meetings will take place at around 13:00--15:00 in the afternoon.
 
+### Perform three code reviews and post GitHub issues ###
+
+Every Wednesday from the second week on, you will perform a systematic review of the codebase of one of your team members. You will get a list of topics to help you focus your feedback.
+
 ### Prepare yourself by reading documentation, sharing, and attending workshops ###
 
 Creating software consists of reading documentation as much as it consists of writing code. During this project, you will be on your own most of the time. Hence, you need to prepare yourself daily by reading up on concepts that you will apply and on problems that you encounter.
