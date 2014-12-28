@@ -70,7 +70,7 @@ Your proposal and weekly presentations will be evaluated on the bases of, at lea
 **Minimum viable product**
 : due by Fri 23 January at noon
 
-**Implementation**
+**Final release**
 : due by Thu 29 January at 23:59
 
 **Exhibition**
