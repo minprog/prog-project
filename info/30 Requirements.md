@@ -6,7 +6,7 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 ### Mobile apps
 
-- You are invited to create an app concept of your own choosing, as long as it allows an app of sufficient complexity to be created (pending approval of the course's instructor).
+- You are invited to create an app concept of your own choosing, as long as it allows an app of sufficient complexity to be created (pending approval by the course's instructor).
 
 - The product embodies good interaction design practices.
 
@@ -14,7 +14,7 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 ### Data visualizations
 
-- You are invited to work on a data set of your choosing, as long as it allows a visualization of sufficient complexity to be created (pending approval of the course's instructor).
+- You are invited to work on a data set of your choosing, as long as it allows a visualization of sufficient complexity to be created (pending approval by the course's instructor).
 
 - The product embodies good visualization practices.
 
