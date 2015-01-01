@@ -1,7 +1,9 @@
-Programming project course
+Programming project
 ============
 
-- project-based software course
+Some goals for this course:
+
+- project-based software engineering
 - students work on their own projects but in tutored groups
 - code reviews
 - plan-based approach with elaborate documentation
