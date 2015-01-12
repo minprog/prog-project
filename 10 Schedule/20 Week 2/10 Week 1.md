@@ -28,10 +28,6 @@ You will need to submit your prototype code by *push*ing it to GitHub. Your
 design document should be an evolution of the proposal in the project Wiki.
 (GitHub wikis track changes, so we can always look at older versions if needed.)
 
-To allow us to find the repository, you need to submit the *https clone URL* on the submit tab of this web page:
-
-![](clone.png)
-
 ### Presenting
 
 You are to present your progress on Friday, thereby using the materials and
