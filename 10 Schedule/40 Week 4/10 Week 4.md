@@ -20,6 +20,30 @@ You'll team up with another student and perform code reviews on each other's cod
 
 This week, you'll work towards submitting the final code of your project. Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading.
 
+## Choosing a license for your work (deadline: Thursday)
+
+Your GitHub repository should contain a complete **README** file that states the application name, a screen shot, its purpose, your name, a copyright statement, and a license.
+
+The copyright statement can be either:
+
+- a *public domain* release, which releases your code to the public without any restrictions
+
+- a *copyright notice* which states who actually owns the rights to the materials in the repository (probably only you)
+
+The license should be one of these, probably:
+
+- the [MIT license](https://en.wikipedia.org/wiki/MIT_License) that releases the current state of the code to the public, allowing them to do anything with it
+
+- a [Creative Commons license](http://creativecommons.org) that makes the code mostly public but allows some simple restrictions that experienced lawyers have verified
+
+- the [GNU license](https://gnu.org/licenses/gpl.html) that makes the code open source and makes sure any derivative works are also open source (even if a part is reused)
+
+- an "all rights reserved" statement which keeps the code to yourself (legally, at least)
+
+The **README** should also acknowledge sources of external code, images and other materials that are in the repository but not created by yourself. Make sure that it is clear which directories are copyrighted by different creators.
+
+Also note that these materials have their own respective licenses. You should at the very least note this fact. Make sure you also check the licenses to see if you should make a special statement about the source of the materials.
+
 ## Create the final process book (deadline: Thursday)
 
 Update your design document with any decisions that you've made. Try to defend a few of the important decisions you have made during the project, e.g. where you changed your mind during the past weeks. Make sure the document is complete and reflects the final state of the application. The document will be partially taken into account for grading.
