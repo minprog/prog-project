@@ -18,11 +18,11 @@ You'll team up with another student and perform code reviews on each other's cod
 
 ## Delivering the finished product (deadline: Thursday)
 
-This week, you'll work towards presenting the MVP of your project. Make sure that your data processing tools work and that you have a *working* product, even though it need not be finished in terms of features and code quality.
+This week, you'll work towards submitting the final code of your project. Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading.
 
 ## Create the final process book (deadline: Thursday)
 
-Update your design document with any decisions that you've made during the week. Try to defend a few of the important decisions you have made during the project, e.g. where you changed your mind during the past weeks. Make sure the document is complete and reflects the final state of the application. The document will be partially taken into account for grading.
+Update your design document with any decisions that you've made. Try to defend a few of the important decisions you have made during the project, e.g. where you changed your mind during the past weeks. Make sure the document is complete and reflects the final state of the application. The document will be partially taken into account for grading.
 
 ### Submitting
 
