@@ -42,7 +42,7 @@ The final part of this course is the exhibition, where you are expected to demo 
 
 ## Assessment
 
-Your proposal and weekly presentations will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
+Your proposal and process book will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
 
 **Scope**
 : To what extent does your code implement the features as agreed upon?
@@ -55,6 +55,10 @@ Your proposal and weekly presentations will be evaluated on the bases of, at lea
 
 **Style**
 : To what extent is your code readable (i.e., commented and indented with variables aptly named)?
+
+## Final grade
+
+The final grade will be based on your final product implementation (code) as well as the final process book (20%), as per the criteria described above.
 
 ## Schedule
 

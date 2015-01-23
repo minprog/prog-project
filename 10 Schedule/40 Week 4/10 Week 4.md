@@ -1,0 +1,39 @@
+## Process book (every day)
+
+Remember to update your process book every day. Add headings for each day that you're working on your project. Add bullets for all activities during the day.
+
+## Pushing code (every day)
+
+`git commit` and `git push` every day!
+
+## Code reviews (on Wednesday)
+
+This is the final chance to help a fellow student earn a good grade! Even your simplest comments can help someone see problems in their code and fix these before the final submission.
+
+You'll team up with another student and perform code reviews on each other's code. Make sure your repository is cleaned up and ready before Wednesday at noon, and then do the code reviews. Pay attention to:
+
+- How easy it is to make sense of the complete code base (can you understand what goes where and why?). Think aloud when doing this, so the coder under review can take notes and make their code better.
+
+- Stylistic issues in the code. Make sure that you point out the weak spots. These need to be fixed, especially before the final release (but also before the next code review!).
+
+## Delivering the finished product (deadline: Thursday)
+
+This week, you'll work towards presenting the MVP of your project. Make sure that your data processing tools work and that you have a *working* product, even though it need not be finished in terms of features and code quality.
+
+## Create the final process book (deadline: Thursday)
+
+Update your design document with any decisions that you've made during the week. Try to defend a few of the important decisions you have made during the project, e.g. where you changed your mind during the past weeks. Make sure the document is complete and reflects the final state of the application. The document will be partially taken into account for grading.
+
+### Submitting
+
+You will need to submit your final code by *push*ing it to GitHub. Your
+design document should be an evolution of the proposal in the project Wiki.
+(GitHub wikis track changes, so we can always look at older versions if needed.)
+
+Note the rules for late submissions on the homepage!
+
+## Demonstrations (on Friday)
+
+You are to present your final product on Friday. To make your fellow students
+and your mentor fully understand what you have built, prepare a very
+short demo of all relevant features. The demonstrations will be used to consider the *scope* of your project for grading.
