@@ -34,7 +34,7 @@ The license should be one of these, probably:
 
 - the [MIT license](https://en.wikipedia.org/wiki/MIT_License) that releases the current state of the code to the public, allowing them to do anything with it
 
-- a [Creative Commons license](http://creativecommons.org) that makes the code mostly public but allows some simple restrictions that experienced lawyers have verified
+- a [Creative Commons license](http://creativecommons.org) that makes the code mostly public but allows some simple restrictions about re-use
 
 - the [GNU license](https://gnu.org/licenses/gpl.html) that makes the code open source and makes sure any derivative works are also open source (even if a part is reused)
 
