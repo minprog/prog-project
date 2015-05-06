@@ -1,6 +1,16 @@
-*This is a beta version of the syllabus. It will be changed.*
+*June 2015*
 
 The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go simply out in the world and start creating your own software.
+
+## Instructors
+
+Martijn Stegeman  
+*instructor*  
+
+Thijs Coenen
+*instructor*
+
+Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
 ## Expectations
 
@@ -8,13 +18,13 @@ You only have four weeks to complete this course, so deadlines are tight. Here's
 
 ### Create your own software project ###
 
-Most of the time you will be writing code to create some sort of visualization tool or mobile app. Above all, we expect your application to solve some kind of clearly defined problem for the user(s). At the end of the month, you need to delived a *fully functional* application that solves that problem.
+Most of the time you will be writing code to create a visualization tool or mobile app. Above all, we expect your application to solve some kind of clearly defined problem for the user(s). At the end of the month, you need to delived a *fully functional* application that solves that problem.
 
-### Attend daily standup meetings and Friday presentations ###
+### Attend daily meetings and Friday presentations ###
 
 You will be assigned a *mentor* who you will meet every morning at 10:00, 10:30 or 11:00 together with at most 10 other students. During this daily standup meeting you are expected to briefly report on progress and share your plans for the day. This provides you with an opportunity to see if other students will be tackling the same problem as you, and work together on said problem.
 
-Each Friday, you are expected to present to your mentor and fellow students the progress you have made on your application. The meetings will take place at around 13:00--15:00 in the afternoon.
+Each Friday, you are expected to present to your mentor and fellow students the progress you have made on your application.
 
 ### Perform three code reviews and post GitHub issues ###
 
@@ -26,9 +36,9 @@ Creating software consists of reading documentation as much as it consists of wr
 
 We also expect you to liberally share your knowledge with other students and at the same time ask lots of questions. For some topics that pertain to most students, there will be small workshops taught by the staff. We expect you to attend these if you need to.
 
-### Attend many guest lectures ###
+### Attend guest lectures ###
 
-During the month, several guest lectures will take place. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. Lectures normally take place at 14:00 in the afternoon. You are allowed to miss one of these lectures, but as a general rule, you need to attend them all.
+During the month, some guest lectures will take place. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. Lectures normally take place at 14:00 in the afternoon. You are allowed to miss one of these lectures, but as a general rule, you need to attend them all.
 
 ### Create a process book documenting your project ###
 
@@ -44,41 +54,34 @@ The final part of this course is the exhibition, where you are expected to demo 
 
 Your proposal and process book will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
 
-**Scope**
-: To what extent does your code implement the features as agreed upon?
+**Process book**
+: To what extent have you clearly documented your project, the design, and your understanding of the chosen topic?
 
-**Correctness**
-: To what extent is your code consistent with our requirements and free of bugs?
+**Solution**
+: To what extent does your code implement the features as agreed upon and is it useful for your intented audience?
 
-**Design**
-: To what extent is your code written well (i.e., clearly, efficiently, elegantly, and/or logically)?
-
-**Style**
-: To what extent is your code readable (i.e., commented and indented with variables aptly named)?
-
-## Final grade
-
-The final grade will be based on your final product implementation (code) as well as the final process book (20%), as per the criteria described above.
+**Implementation**
+: To what extent is your code consistent with the requirements, free of bugs, and is your code well-designed and readable?
 
 ## Schedule
 
 **Proposal and technical set-up**
-: due by Tue 6 January at 23:59
+: due by Tue 2 June at 23:59
 
 **Design document and prototype user interface**
-: due by Fri 9 January at noon
+: due by Fri 5 June at noon
 
 **Beta version**
-: due by Fri 16 January at noon
+: due by Fri 12 June at noon
 
 **Minimum viable product**
-: due by Fri 23 January at noon
+: due by Fri 19 June at noon
 
 **Final release**
-: due by Thu 29 January at 23:59
+: due by Thu 25 June at 23:59
 
 **Exhibition**
-: from 12:00--18:00 on Fri 30 January
+: from 12:00--18:00 on Fri 26 June
 
 ## Deadlines
 
