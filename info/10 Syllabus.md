@@ -54,33 +54,33 @@ The final part of this course is the exhibition, where you are expected to demo 
 
 Your proposal and process book will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
 
-**Process book**
+*Process book*
 : To what extent have you clearly documented your project, the design, and your understanding of the chosen topic?
 
-**Solution**
+*Solution*
 : To what extent does your code implement the features as agreed upon and is it useful for your intented audience?
 
-**Implementation**
+*Implementation*
 : To what extent is your code consistent with the requirements, free of bugs, and is your code well-designed and readable?
 
 ## Schedule
 
-**Proposal and technical set-up**
+*Proposal and technical set-up*
 : due by Tue 2 June at 23:59
 
-**Design document and prototype user interface**
+*Design document and prototype user interface*
 : due by Fri 5 June at noon
 
-**Beta version**
+*Beta version*
 : due by Fri 12 June at noon
 
-**Minimum viable product**
+*Minimum viable product*
 : due by Fri 19 June at noon
 
-**Final release**
+*Final release*
 : due by Thu 25 June at 23:59
 
-**Exhibition**
+*Exhibition*
 : from 12:00--18:00 on Fri 26 June
 
 ## Deadlines
