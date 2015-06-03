@@ -7,8 +7,17 @@ The programming project is the final course of the programming minor, and for th
 Martijn Stegeman  
 *instructor*  
 
-Thijs Coenen
+Thijs Coenen  
 *instructor*
+
+Jaap van Bergeijk  
+*teaching assistant*
+
+Jelle van Assema  
+*teaching assistant*
+
+Ben Witzen  
+*teaching assistant*
 
 Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
@@ -22,7 +31,7 @@ Most of the time you will be writing code to create a visualization tool or mobi
 
 ### Attend daily meetings and Friday presentations ###
 
-You will be assigned a *mentor* who you will meet every morning at 10:00, 10:30 or 11:00 together with at most 10 other students. During this daily standup meeting you are expected to briefly report on progress and share your plans for the day. This provides you with an opportunity to see if other students will be tackling the same problem as you, and work together on said problem.
+You will be assigned a *mentor* who you will meet every morning at 10:00 together with at about 10 other students. During this daily standup meeting you are expected to briefly report on progress and share your plans for the day. This provides you with an opportunity to see if other students will be tackling the same problem as you, and work together on said problem.
 
 Each Friday, you are expected to present to your mentor and fellow students the progress you have made on your application.
 

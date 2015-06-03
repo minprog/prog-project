@@ -110,6 +110,12 @@ design document should be an evolution of the proposal.
 
 To allow us to find the repository, you need to submit the *https URL* on the submit tab of this web page (`https://github.com/username/projectname`).
 
+### Process book ###
+
+Create a first version of your `process book`. This document will describe any decisions that you made during the project. Such a document will help you tremendously in writing a final report!
+
+*Put the process book on a wiki page of your GitHub repository.*
+
 ### Presenting
 
 You are to present your progress on Friday, thereby using the materials and
