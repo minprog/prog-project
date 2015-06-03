@@ -1,6 +1,9 @@
 ## Process book (every day)
 
-From today on, you'll need to log your activities in a process book. Create a new page in the wiki called "Process book" and add headings for each day that you're working on your project. Add bullets for all activities during the day.
+From today on, you'll need to log your activities in a process book. Create a page in the wiki called "Process book" and add headings for each day that you're working on your project.
+
+- Add bullets for all activities during the day.
+- Make note of decisions that you make, e.g. where you deviate from the proposal or the design document.
 
 ## Pushing code (every day)
 
@@ -14,13 +17,9 @@ You'll team up with another student and perform code reviews on each other's cod
 
 - Stylistic issues in the code. Make sure that you point out the weak spots. These need to be fixed, especially before the final release (but also before the next code review!).
 
-## Creating a beta version of your project (deadline: Friday)
+## Creating an alpha version of your project (deadline: Friday)
 
-This week, you'll work towards presenting a beta version of your project. Make sure that you have all your data ready this week, and create a basic representation of the data, with some interaction.
-
-## Update your design document (deadline: Friday)
-
-Update your design document with any decisions that you've made during the week.
+This week, you'll work towards presenting an alpha version of your project. Make sure that you have all your data ready this week, and create a basic representation of the data, with some interaction.
 
 ### Submitting
 
@@ -31,7 +30,7 @@ design document should be an evolution of the proposal in the project Wiki.
 ### Presenting
 
 You are to present your progress on Friday, thereby using the materials and
-beta version you have created. To make your fellow students and your mentor
+alpha version you have created. To make your fellow students and your mentor
 fully understand what you will be building, prepare a very short demo of the
 different mockup screens. Then, show how the application will be built
 technically.

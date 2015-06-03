@@ -1,6 +1,6 @@
 ## Process book (every day)
 
-Remember to update your process book every day. Add headings for each day that you're working on your project. Add bullets for all activities during the day.
+Remember to update your process book every day. Add headings for each day that you're working on your project. Add bullets for all activities during the day, and note important decisions that you have made.
 
 ## Pushing code (every day)
 
@@ -16,20 +16,16 @@ You'll team up with another student and perform code reviews on each other's cod
 
 ## Delivering the minimum viable product (deadline: Friday)
 
-This week, you'll work towards presenting the MVP of your project. Make sure that your data processing tools work and that you have a *working* product, even though it need not be finished in terms of features and code quality.
-
-## Update your design document (deadline: Friday)
-
-Update your design document with any decisions that you've made during the week.
+This week, you'll work towards presenting the beta of your project. Make sure that your data processing tools work and that you have a *working* product, even though it need not be finished in terms of bugs and code quality.
 
 ### Submitting
 
-You will need to submit your MVP code by *push*ing it to GitHub. Your
+You will need to submit your beta code by *push*ing it to GitHub. Your
 design document should be an evolution of the proposal in the project Wiki.
 (GitHub wikis track changes, so we can always look at older versions if needed.)
 
 ### Presenting
 
-You are to present your progress on Friday, thereby using the MVP that you have
+You are to present your progress on Friday, thereby using the beta that you have
 created. To make your fellow students and your mentor fully understand what you
 will be building, prepare a very short demo of the currently finished features and plan to tell the audience what you consider doing to finish the application.
