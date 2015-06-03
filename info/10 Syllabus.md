@@ -87,10 +87,10 @@ Your proposal and process book will be evaluated on the bases of, at least, clar
 : due by Fri 19 June at noon
 
 *Final release*
-: due by Thu 25 June at 23:59
+: due by Fri 26 June at 11:00 AM
 
 *Exhibition*
-: from 12:00--18:00 on Fri 26 June
+: from 13:00--17:00 on Fri 26 June
 
 ## Deadlines
 
