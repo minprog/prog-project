@@ -2,4 +2,5 @@ name: github
 url: true
 dependent_grades:
     - verslag
+    - solution
     - eindcijfer
