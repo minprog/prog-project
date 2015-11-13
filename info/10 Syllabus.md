@@ -29,6 +29,8 @@ You only have four weeks to complete this course, so deadlines are tight. Here's
 
 Most of the time you will be writing code to create a visualization tool or mobile app. Above all, we expect your application to solve some kind of clearly defined problem for the user(s). At the end of the month, you need to delived a *fully functional* application that solves that problem.
 
+Heads up! To make sure that every student can work freely on their project in an academic environment, we have limited the possibilities for doing external project. You cannot in any way re-use an existing codebase for your projects. You are not allowed to do the project in cooperation with anyone outside of this course. You cannot submit a project for which you will be compensated in any way outside of this course.
+
 ### Attend daily meetings and Friday presentations ###
 
 You will be assigned a *mentor* who you will meet every morning at 10:00 together with at about 10 other students. During this daily standup meeting you are expected to briefly report on progress and share your plans for the day. This provides you with an opportunity to see if other students will be tackling the same problem as you, and work together on said problem.
