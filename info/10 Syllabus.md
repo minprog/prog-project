@@ -1,22 +1,33 @@
-*June 2015*
+# Programmeerproject
 
-The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go simply out in the world and start creating your own software.
+*Winter 2016 (mind you: this page is not final)*
+
+The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or simply go out in the world and start creating your own software.
 
 ## Instructors
 
 Martijn Stegeman  
 *instructor*  
 
-Thijs Coenen  
+Gosia Migut  
+*instructor*
+
+Daan van den Berg  
 *instructor*
 
 Jaap van Bergeijk  
 *teaching assistant*
 
-Jelle van Assema  
+Jasper Linmans  
 *teaching assistant*
 
-Ben Witzen  
+Julian Jansen  
+*teaching assistant*
+
+Gracia Redder  
+*teaching assistant*
+
+Maarten Inja  
 *teaching assistant*
 
 Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
