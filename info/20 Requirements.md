@@ -26,8 +26,6 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 - Your app's source code should be managed in an *Android Studio* project.
 
-- The application should have a minimum SDK API level of 7. You may use a later version if and only if some feature important to your project requires it. If this is the case, you may modify your project to use a later API version but you must mark in your source code, using Java comments, the precise line that requires the API version you are using. Be sure the text API CHANGE appears in your comment so that we can easily find it via a search.
-
 - Under no circumstances should we be able to cause your program to crash at runtime.
 
 - You may select your own project and application name. Your project's *package name* should be prefixed with `nl.mprog.`.
