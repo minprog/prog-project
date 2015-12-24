@@ -44,6 +44,7 @@ In this course, you will create a single software project, based on the platform
 
 You are minimally expected to:
 
+- deliver all deliverables, on time
 - invest many hours of work in the project each week
 - work at the lab in a team of 5 students doing similar projects
 - share ideas and knowledge liberally, so as to help other students out with their projects
