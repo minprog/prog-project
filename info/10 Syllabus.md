@@ -18,6 +18,9 @@ Daan van den Berg
 Jaap van Bergeijk  
 *teaching assistant*
 
+Hella Haanstra  
+*teaching assistant*
+
 Jasper Linmans  
 *teaching assistant*
 
