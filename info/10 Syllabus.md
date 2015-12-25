@@ -82,9 +82,17 @@ Your grade for this course will be determined on the basis of five criteria:
 
 *Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness and coherence.
 
-*Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be checked on general requirements and graded on buggyness by rigorous stress testing. 
+*Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing. 
 
 *Code* --- To what extent is your code well-designed and readable? The code quality will be graded usign a code quality rubric that you will also use yourself during the weekly code reviews.
+
+On each of these criteria, you will receive a grade 1--5:
+
+1. Poor
+2. Fair: ample room for improvement
+3. Good: some room for improvement
+4. Very good: minor room for improvement
+5. Excellent: essentially no room for improvement
 
 Do note that failing to meet expectations, as stated in an earlier section, will generally result in a failing grade.
 
