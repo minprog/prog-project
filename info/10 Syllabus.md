@@ -45,16 +45,18 @@ In this course, you will create a single software project, based on the platform
 
 ## Expectations
 
-You are minimally expected to:
+You are expected to:
 
-- deliver all deliverables, on time
-- invest many hours of work in the project each week
-- work at the lab in a team of 5 students doing similar projects
+- keep track of your progress, bottlenecks and solutions in a process book
+- work at the lab in a team of 5 students who are doing similar projects as you
 - share ideas and knowledge liberally, so as to help other students out with their projects
 - deliver a fully functional application, though possibly limited in options, at the end of the course
-- put all your work, including code and documentation, on GitHub and keep a version history
+- put all your work, including code and documentation, on GitHub
+- keep a version history of `git` commits of your project that documents daily progress
+- make liberal use of forums, blog posts and other web pages to obtain knowledge needed to implement your application
+- cite, in a section of your project's README, any sources you use
 
-Note: the project cannot be done on the basis of existing code, under external supervision and/or in exchange for compensation by third parties. It is, however, possible to do such a project outside of this course. Please contact the course's instructor to discuss.
+Note: the project cannot be done on the basis of existing code, under external supervision and/or in exchange for compensation by third parties, at any time. It is, however, possible to do such a project outside of this course. Please contact the course's instructor to discuss.
 
 ## Activies
 
@@ -64,7 +66,7 @@ Note: the project cannot be done on the basis of existing code, under external s
 
 *Code reviews* --- Every Wednesday from the second week on, you will perform a systematic review of the codebase of one of your team members. You will get a list of topics to help you focus your feedback. This will help you, and your team members, to deliver better code as part of the final application.
 
-*Guest lectures* --- Where possible, some guest lectures will be schedules. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. As a general rule, you need to attend them all.
+*Guest lectures* --- Where possible, some guest lectures will be scheduled. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. As a general rule, you need to attend them all.
 
 *Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. This will help us grade your project.
 
@@ -72,19 +74,19 @@ Note: the project cannot be done on the basis of existing code, under external s
 
 ## Assessment
 
-Your proposal and process book will be evaluated on the bases of, at least, clarity and thoroughness. Your implementation will be evaluated along four axes primarily:
+Your grade for this course will be determined on the basis of five criteria:
 
-*Process book*
-: To what extent have you clearly documented your project, the design, and your understanding of the chosen topic?
+*Process book* --- To what extent have you clearly documented your project, the design, and your understanding of the chosen topic? The process book will be graded on axes of clarity and thoroughness.
 
-*Solution*
-: To what extent does your project implement the features as agreed upon in the first week, and is it useful for your intented audience?
+*Process* --- To what extent have you followed a rigorous design and development process and have you worked with others to enhance your and their learning? The process will be grades on the basis of peer assessment and on evaluation of rigor as evidenced in your process book.
 
-*Implementation*
-: To what extent is your project consistent with the imposed requirements and free of bugs?
+*Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness and coherence.
 
-*Code*
-: To what extent is your code well-designed and readable?
+*Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be checked on general requirements and graded on buggyness by rigorous stress testing. 
+
+*Code* --- To what extent is your code well-designed and readable? The code quality will be graded usign a code quality rubric that you will also use yourself during the weekly code reviews.
+
+Do note that failing to meet expectations, as stated in an earlier section, will generally result in a failing grade.
 
 ## Deadlines
 

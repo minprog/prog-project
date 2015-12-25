@@ -26,6 +26,8 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 - Your app's source code should be managed in an *Android Studio* project.
 
+- Your app should target a recent version of the Android SDK and need not be backwards compatible.
+
 - Under no circumstances should we be able to cause your program to crash at runtime.
 
 - You may select your own project and application name. Your project's *package name* should be prefixed with `nl.mprog.`.
@@ -34,7 +36,7 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 ### iOS
 
-- Your app's source code should be managed in an *Xcode 6.1* project.
+- Your app's source code should be managed in an *Xcode 7* project.
 
 - Your app's UI should be sized for an iPhone or iPod touch (i.e., 320 &times; 480 points) or for an iPad (i.e., 768 &times; 1024 points).
 
@@ -42,11 +44,11 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 - Your project's *Product Name* may be anything. Your project's *Company Identifier* should be `nl.mprog`.
 
-- Your app must use Automatic Reference Counting (ARC).
+- Your app must use Swift as the source code language.
 
 - Your app must tolerate low-memory warnings (as by reloading views when needed).
 
-- Your app must work within the iPhone 8 Simulator; you need not test it on actual hardware.
+- Your app must work within the iPhone 9 Simulator; you need not test it on actual hardware.
 
 ### Web based visualization
 
