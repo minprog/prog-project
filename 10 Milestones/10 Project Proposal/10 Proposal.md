@@ -1,8 +1,8 @@
 # Project Proposal
 
-You'll spend the first couple of days building a *problem definition*. An
-important part of this is understanding the limitations and possibilities of
-the platform that you will be building your software on.
+You'll spend the first day building a *problem definition*. An important part of this is
+understanding the limitations and possibilities of the platform that you will be building your
+software on.
 
 The result of this phase is a *proposal document* that thorougly describes the
 folowing aspects of your application:
@@ -26,14 +26,21 @@ folowing aspects of your application:
 
 - a very short review of similar applications or visualizations in terms of features and possibly technical aspects (what do they offer? how have they implemented it?)
 
-Create a plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
+Now, to create such a document and get your project started, complete the following steps:
 
-The proposal document should be well-written and clearly formatted. Do not
-forget to include a title, your name, and a paragraph summary of the
-application goals at the top.
+1. Go to <https://github.com/new> and create a new code repository. Check the box to initialize the repository with a readme document:
 
-Although we call the document a proposal, you are expected to refine and
-discuss the contents with fellow students and the teaching crew *before*
-handing it in.
+   ![Check Initialize this repository with a README](readme.png)
 
-> Save your proposal document as **README.md** in the root of your GitHub repository. Put the images in a subfolder called **doc**. Using Markdown and this particular directory structure is compulsory!
+2. Clone the repository to your computer using **git**.
+
+3. Edit the plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
+
+   The proposal document should be well-written and clearly formatted. Do not forget to include a
+   title, your name, and a paragraph summary of the application goals at the top.
+
+4. As you will need to include some sketches into your proposal, put these images in a **doc** folder inside your repository. (Use exactly that name, for standards' sake!)
+
+5. Discuss the contents of your with fellow students and the teaching crew *before* handing it in!
+
+6. Now, copy the URL of the GitHub page for your project and submit it below. It will be of the form <https://github.com/stgm/project>.
