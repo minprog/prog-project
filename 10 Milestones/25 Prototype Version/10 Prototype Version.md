@@ -8,6 +8,13 @@ the following weeks, but it should provide a good starting point for further
 development. By creating a prototype this early, you can focus on more
 fundamental problems in later weeks.
 
+## Data manipulation ##
+
+
+preprocessing scripts inleveren
+
+
+
 ### Submitting
 
 You will need to submit your prototype code by *push*ing it to GitHub. Your
