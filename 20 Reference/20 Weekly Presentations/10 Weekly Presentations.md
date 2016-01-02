@@ -1,17 +1,19 @@
+# Weekly presentations
 
-### Presenting
+You are to present your progress on all Fridays, thereby using the materials, prototypes and
+preliminary results.
 
-You are to present your progress on Friday, thereby using the materials and
-prototype you have created. To make your fellow students and your mentor fully
-understand what you will be building, prepare a very short demo of the
-different mockup screens. Then, show how the application will be built
-technically.
+## Week 1
 
-### Presenting
+Prepare a short demo of the different mockup screens. Then, show how the application will be
+built technically. Make sure you introduce your product briefly at the start of the presentation (the group will be larger than during the daily standups so not everyone will remember exactly what you're making!).
 
-You are to present your progress on Friday, thereby using the beta version that
-you have created. To make your fellow students and your mentor fully understand
-what you will be building, prepare a very short demo of the currently finished
-features and plan to tell the audience what you will be doing to finish the
-application.
+## Week 2
 
+Prepare a short demo of the currently finished features. Tell the audience what you
+will be doing to finish the core functionality next week. Make sure you introduce your product briefly at the start of the presentation.
+
+## Week 3
+
+Prepare a short demo of the minimum viable product that you have created and explain what you
+will be doing to finish and finetune the application next week. Make sure you introduce your product briefly at the start of the presentation.
