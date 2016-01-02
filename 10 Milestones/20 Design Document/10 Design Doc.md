@@ -5,10 +5,14 @@ this phase of defining your application, the teaching staff and your fellow stud
 there are fundamental problems that need to be solved, or if there technical limitations that will
 prevent you from finishing the application.
 
+## Minimum viable product
+
 First of all, be sure to make clear which parts of the application define the *minimum viable
 product* and which parts may be optional to implement.
 
 ![embed](https://www.youtube.com/embed/uDU7IzoUHO0?rel=0&amp;showinfo=0)
+
+## Framework mapping
 
 Use the decomposition you made earlier to map parts of the solution on the
 framework(s) that you are using. Think about and fully express how the user
@@ -35,4 +39,3 @@ If your application has multiple independent programs working together (e.g. to
 clean your dataset) you need to provide a high-level overview of these
 components and then provide a lowel-level overview of the inner workings of
 each component.
-
