@@ -1,0 +1,11 @@
+calculation:
+    normal:
+        all: 1
+
+all:
+    type: integer
+    required: true
+    grades:
+        verslag: 1
+        solution: 1
+        github: 1
