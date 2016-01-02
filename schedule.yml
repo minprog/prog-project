@@ -1,4 +1,17 @@
 Preview:
     'Write a proposal [deadline: Monday]': '/milestones/project-proposal'
+    'div1': '---'
 Week 1:
     'Write a proposal [deadline: Monday]': '/milestones/project-proposal'
+    'Create a design document [deadline: Friday]': '/milestones/design-document'
+    'Create a prototype version [deadline: Friday]': '/milestones/prototype-version'
+    'Setup your repository': '/reference/repository-setup'
+    'Start your process book': '/reference/process-book'
+Week 2:
+    'Create an alpha version [deadline: Friday]': '/milestones/alpha-version'
+Week 3:
+    'Create a beta version [deadline: Friday]': '/milestones/beta-version'
+Week 4:
+    'Create a final version [deadline: Thursday]': '/milestones/final-version'
+    'Write a final report [deadline: Thursday]': '/milestones/final-report'
+    'Give your product demo [Friday]': '/milestones/product-demo'

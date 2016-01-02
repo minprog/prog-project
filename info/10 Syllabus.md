@@ -37,7 +37,7 @@ Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
 
 - proposal (day 1)
-- design document and prototype (day 5)
+- design document and prototype (day 4/5)
 - incomplete alpha version (day 10)
 - complete beta version (day 15)
 - final version (day 19)
