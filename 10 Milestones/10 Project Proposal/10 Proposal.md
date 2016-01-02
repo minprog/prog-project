@@ -26,7 +26,7 @@ folowing aspects of your application:
 
 - a very short review of similar applications or visualizations in terms of features and possibly technical aspects (what do they offer? how have they implemented it?)
 
-Create a plain text document called `README.md`. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
+Create a plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
 
 The proposal document should be well-written and clearly formatted. Do not
 forget to include a title, your name, and a paragraph summary of the
@@ -36,4 +36,4 @@ Although we call the document a proposal, you are expected to refine and
 discuss the contents with fellow students and the teaching crew *before*
 handing it in.
 
-> Save your proposal document as `README.md` in the root of your GitHub repository. Put the images in a subfolder called `doc`. Using Markdown and this particular directory structure is compulsory!
+> Save your proposal document as **README.md** in the root of your GitHub repository. Put the images in a subfolder called **doc**. Using Markdown and this particular directory structure is compulsory!
