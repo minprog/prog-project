@@ -1,12 +1,14 @@
 # Design Document
 
-Based on your proposal, you can now start studying your problem in a more
-technical fashion. During this phase of defining your application, the teaching
-staff and your fellow students can spot if there are fundamental
-problems that need to be solved, or if there technical limitations that will
+Based on your proposal, you can now start studying your problem in a more technical fashion. During
+this phase of defining your application, the teaching staff and your fellow students can spot if
+there are fundamental problems that need to be solved, or if there technical limitations that will
 prevent you from finishing the application.
 
-First of all, be sure to make clear which parts of the application define the *minimum viable product* and which parts may be optional to implement.
+First of all, be sure to make clear which parts of the application define the *minimum viable
+product* and which parts may be optional to implement.
+
+![embed](https://www.youtube.com/embed/uDU7IzoUHO0?rel=0&amp;showinfo=0)
 
 Use the decomposition you made earlier to map parts of the solution on the
 framework(s) that you are using. Think about and fully express how the user
