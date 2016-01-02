@@ -24,7 +24,7 @@ folowing aspects of your application:
 - potential problems that may arise during development and what possibilities
   you have to overcome these
 
-- a short review of similar applications or visualizations in terms of features and possibly technical aspects
+- a very short review of similar applications or visualizations in terms of features and possibly technical aspects (what do they offer? how have they implemented it?)
 
 The proposal document should be well-written and clearly formatted. Do not
 forget to include a title, your name, and a paragraph summary of the
