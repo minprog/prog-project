@@ -26,6 +26,8 @@ folowing aspects of your application:
 
 - a very short review of similar applications or visualizations in terms of features and possibly technical aspects (what do they offer? how have they implemented it?)
 
+Create a document called `README.md` to indicate its Markdown formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
+
 The proposal document should be well-written and clearly formatted. Do not
 forget to include a title, your name, and a paragraph summary of the
 application goals at the top.
