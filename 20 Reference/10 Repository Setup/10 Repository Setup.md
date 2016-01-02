@@ -40,4 +40,11 @@ For *Xcode*:
 - choose Swift as your language and select *Next*
 - then, as your project location choose the folder that is the root of your repository
 
+For a *D3 visualization* project:
+
+- create a folder inside your repository that is named after your project
+- create folders there for the kinds of source files you will have: **css** and **javascript** are likely candidates
+- if your application will be implemented in one or only a few **html** files, simply put these in the project folder
+- make sure there is a *main* html file that is called **index.html** with an empty `<body>` tag
+
 Upon following these steps succesfully, you should be able to commit and push the new project to your GitHub repository. Make sure you do this before continuing.

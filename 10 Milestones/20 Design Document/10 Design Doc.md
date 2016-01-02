@@ -8,7 +8,7 @@ prevent you from finishing the application.
 ## Minimum viable product
 
 First of all, be sure to make clear which parts of the application define the *minimum viable
-product* and which parts may be optional to implement.
+product* (MVP) and which parts may be optional to implement.
 
 ![embed](https://www.youtube.com/embed/uDU7IzoUHO0?rel=0&amp;showinfo=0)
 
@@ -39,3 +39,7 @@ If your application has multiple independent programs working together (e.g. to
 clean your dataset) you need to provide a high-level overview of these
 components and then provide a lowel-level overview of the inner workings of
 each component.
+
+## Repository
+
+Save your design document as **DESIGN.md** in the root of your GitHub repository. Don't forget to update your **README.md** if you have made any incompatible decisions, and push that file, too!
