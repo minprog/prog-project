@@ -15,6 +15,7 @@ follow these instructions.
 For *Android Studio*:
 
 - make sure you have created your repository as per the instructions
+- make sure Android Studio is fully up-to-date
 - install and start Android Studio
 - close any open projects
 - create a new project
@@ -29,6 +30,7 @@ For *Android Studio*:
 For *Xcode*:
 
 - make sure you have created your repository as per the instructions
+- make sure Xcode is fully up-to-date
 - install and start Xcode
 - close any open projects
 - create a "New Xcode Project"
