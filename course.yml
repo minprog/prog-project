@@ -2,6 +2,8 @@ course:
     title: Programming Project
     short: Project
     submit: Project2014
+    mail: help@mprog.nl
+    allow_hands: true
 
 acknowledgements:
     - 'Based on CS164 http://cs164.tv/ (Copyright &copy; 2012 – 2013, David J. Malan, License: Creative Commons BY-NC-SA)'
