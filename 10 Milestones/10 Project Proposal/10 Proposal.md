@@ -34,4 +34,4 @@ Although we call the document a proposal, you are expected to refine and
 discuss the contents with fellow students and the teaching crew *before*
 handing it in.
 
-*Save your proposal document as `README.md` in the root of your GitHub repository. Put the images in a subfolder called `docs`.*
+> Save your proposal document as `README.md` in the root of your GitHub repository. Put the images in a subfolder called `doc`. Using Markdown and this particular directory structure is compulsory!
