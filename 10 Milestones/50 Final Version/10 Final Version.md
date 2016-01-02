@@ -18,20 +18,6 @@ The **README.md** should also acknowledge sources of external code, images and o
 
 Also note that these materials have their own respective licenses. You should at the very least note this fact (again, in the **README.md**). Make sure you also check the licenses to see if you should make a special statement about the source of the materials.
 
-## Create the final report (deadline: Friday 11 AM)
-
-Create a report (**REPORT.md**), based on your design document, containing important decisions that you've made, e.g. where you changed your mind during the past weeks. This is how you show the reviewer that you actually understand what you have done.
-
-- Start with a short description of your application (like in the **README**)
-
-- Clearly describe the technical design: how does your code map to the functionality?
-
-- Clearly describe challenges that your have met during development. Document all important changes that your have made with regard to your design document.
-
-- Try to defend these decisions by writing a small argument. Why was it good to do it different than you thought before? Are there trade-offs?
-
-- Make sure the document is complete and reflects the final state of the application. The document will be an important part of your grade.
-
 
 ### Submitting
 
