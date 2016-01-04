@@ -30,6 +30,9 @@ Julian Jansen
 Gracia Redder  
 *teaching assistant*
 
+Wouter Vrielink  
+*teaching assistant*
+
 Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
 ## Deliverables
