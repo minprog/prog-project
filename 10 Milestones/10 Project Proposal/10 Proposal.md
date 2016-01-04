@@ -47,4 +47,4 @@ To create such a document and get your project started, complete the following s
 
 6. Now, copy the URL of the GitHub page for your project and submit it below. It will be of the form <https://github.com/stgm/project>.
 
-> Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder and nothing else.
+> Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name) and nothing else.
