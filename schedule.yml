@@ -10,6 +10,7 @@ Week 1:
     'div1': '---'
     'Setup your repository': '/reference/repository-setup'
     'Start your process book': '/reference/process-book'
+    'Fix any issues on GitHub': '/reference/issues'
 Week 2:
     'Attend the daily standups': '/reference/daily-standup'
     'div2': '---'
@@ -19,6 +20,7 @@ Week 2:
     'div1': '---'
     'Keep your repository tidy': '/reference/repository-setup'
     'Write your process book': '/reference/process-book'
+    'Fix any issues on GitHub': '/reference/issues'
 Week 3:
     'Attend the daily standups': '/reference/daily-standup'
     'div2': '---'
@@ -28,6 +30,7 @@ Week 3:
     'div1': '---'
     'Keep your repository tidy': '/reference/repository-setup'
     'Write your process book': '/reference/process-book'
+    'Fix any issues on GitHub': '/reference/issues'
 Week 4:
     'Perform a code review [Wednesday]': '/reference/code-review'
     'Create a final version [deadline: Thursday]': '/milestones/final-version'
@@ -38,3 +41,4 @@ Week 4:
     'div2': '---'
     'Keep your repository tidy': '/reference/repository-setup'
     'Write your process book': '/reference/process-book'
+    'Fix any issues on GitHub': '/reference/issues'
