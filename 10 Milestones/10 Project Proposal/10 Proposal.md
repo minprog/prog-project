@@ -32,7 +32,7 @@ Now, to create such a document and get your project started, complete the follow
 
    ![Check Initialize this repository with a README](readme.png)
 
-2. Clone the repository to your computer using **git**.
+2. Clone the repository to your computer using **git**. Don't know how? Head to the [reference](/reference/git)!
 
 3. Edit the plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
 
@@ -44,3 +44,5 @@ Now, to create such a document and get your project started, complete the follow
 5. Discuss the contents of your with fellow students and the teaching crew *before* handing it in!
 
 6. Now, copy the URL of the GitHub page for your project and submit it below. It will be of the form <https://github.com/stgm/project>.
+
+> Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md** and a **doc** folder.
