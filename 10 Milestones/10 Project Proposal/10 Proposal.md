@@ -26,13 +26,13 @@ folowing aspects of your application:
 
 - a very short review of similar applications or visualizations in terms of features and possibly technical aspects (what do they offer? how have they implemented it?)
 
-Now, to create such a document and get your project started, complete the following steps:
+> All documentation and code of this project must be hosted on GitHub and updated daily, in order for the staff to be able to monitor your progress. Please note that the repository must be public!
+
+To create such a document and get your project started, complete the following steps:
 
 1. Go to <https://github.com/new> and create a new code repository. Check the box to initialize the repository with a readme document:
 
    ![Check Initialize this repository with a README](readme.png)
-
-   > Please note that the repository must be public!
 
 2. Clone the repository to your computer using **git**. Don't know how? Head to the [reference](/reference/git)!
 
