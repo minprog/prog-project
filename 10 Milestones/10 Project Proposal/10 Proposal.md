@@ -32,6 +32,8 @@ Now, to create such a document and get your project started, complete the follow
 
    ![Check Initialize this repository with a README](readme.png)
 
+   > Please note that the repository must be public!
+
 2. Clone the repository to your computer using **git**. Don't know how? Head to the [reference](/reference/git)!
 
 3. Edit the plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
