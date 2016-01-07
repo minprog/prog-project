@@ -8,6 +8,12 @@ preliminary results.
 Prepare a short demo of the different mockup screens. Then, show how the application will be
 built technically. Make sure you introduce your product briefly at the start of the presentation (the group will be larger than during the daily standups so not everyone will remember exactly what you're making!).
 
+- 7 minuten presentatie van iedereen
+- geen powerpoint
+- allereerst concept uitleggen van wat je gaat maken, waarschijnlijk door README te laten zien
+- dan uitleggen wat je komende weken nog moet uitzoeken (grote dingen)
+- en wat er moeilijk gaat zijn aan je project
+
 ## Week 2
 
 Prepare a short demo of the currently finished features. Tell the audience what you
