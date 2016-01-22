@@ -25,9 +25,9 @@ You will need to submit your final code by *push*ing it to GitHub. Make sure you
 
 - the **README.md**
 - the license in *LICENSE*
-- the **DESIGN.md** (unchanged from week 1)
+- the old **DESIGN.md** (unchanged from week 1)
+- the old **PROCESS.md** (unchanged from week 1)
 - a new **REPORT.md**
-- the wiki page containing your process book
 - a **docs** folder for the images in your documents
 - a separate folder containing your project's code
 - any configuration files like **.gitignore**
