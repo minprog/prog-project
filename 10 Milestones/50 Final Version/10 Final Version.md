@@ -1,8 +1,8 @@
-## Delivering the finished product (deadline: Thursday)
+## Delivering the finished product (deadline: Thursday!!!)
 
 This week, you'll work towards submitting the final code of your project. Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading.
 
-## Changing the `README.md` and choosing a license for your work (deadline: Friday 11 AM)
+## Changing the `README.md` and choosing a license for your work
 
 Your GitHub repository should contain a complete **README.md** file that states the application name, a couple of screen shot (not too large!), its purpose, your name and a copyright statement. It should be easy to read.
 
