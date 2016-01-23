@@ -79,7 +79,7 @@ Note: the project cannot be done on the basis of existing code, under external s
 
 Your grade for this course will be determined on the basis of five criteria:
 
-*Final report* --- To what extent have you clearly documented your project, the design, and your understanding of the chosen topic? The process book will be graded on axes of clarity and thoroughness.
+*Final report* --- To what extent have you clearly documented your project, the design, and your understanding of the chosen topic? The report will be graded on axes of clarity and thoroughness.
 
 *Process* --- To what extent have you followed a rigorous design and development process and have you worked with others to enhance your and their learning? The process will be grades on the basis of peer assessment and on evaluation of rigor as evidenced in your process book.
 
