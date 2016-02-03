@@ -3,7 +3,7 @@ calculation:
         all: 1
 
 all:
-    type: integer
+    type: float
     required: true
     grades:
         verslag: 1
