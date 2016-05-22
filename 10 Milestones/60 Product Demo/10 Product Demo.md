@@ -12,4 +12,3 @@ Program:
 - 12:30 lunch
 - 13:00 demos: official demo for your grade + public demos for everyone
 - 17:00 drinks
-

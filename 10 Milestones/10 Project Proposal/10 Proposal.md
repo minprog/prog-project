@@ -1,16 +1,17 @@
 # Project Proposal
 
-You'll spend the first day building a *problem definition*. An important part of this is
-understanding the limitations and possibilities of the platform that you will be building your
-software on.
+You'll spend the first day building a *problem definition*. A part of this is
+understanding the limitations and possibilities of the platform that you will
+be building your software on.
 
-The result of this phase is a *proposal document* that thorougly describes the
-folowing aspects of your application:
+The result is a *proposal document* that thorougly describes the folowing
+aspects of your application:
 
-- what features will be exposed to the end user, what problem will be solved
-  for the user
+- what problem will be solved for the user
 
-- a preliminary sketch of what the application will look like
+- what features will be available to solve the problem
+
+- an overview sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out
 
 - what data sets and data sources will you need, how you will get the data into
   the right form for your app
@@ -18,17 +19,27 @@ folowing aspects of your application:
 - what separate parts of the application can be defined (decomposing the
   problem) and how these should work together
 
-- how the platform will facilitate creating your application, and what external
-  components (APIs) you need to make certain features possible
+- what external components (APIs) you need to make certain features possible
 
-- potential problems that may arise during development and what possibilities
-  you have to overcome these
+- technical problems or limitations that could arise during development and what possibilities you have to overcome these
 
-- a very short review of similar applications or visualizations in terms of features and possibly technical aspects (what do they offer? how have they implemented it?)
+- a review of similar applications or visualizations in terms of features and technical aspects (what do they offer? how have they implemented it?)
 
-> All documentation and code of this project must be hosted on GitHub and updated daily, in order for the staff to be able to monitor your progress. Please note that the repository must be public!
+## Minimum viable product
 
-To create such a document and get your project started, complete the following steps:
+Be sure to make clear which parts of the application define the
+*minimum viable product* (MVP) and which parts may be optional to implement.
+
+![embed](https://www.youtube.com/embed/uDU7IzoUHO0?rel=0&amp;showinfo=0)
+
+## GitHub
+
+All documentation and code of this project must be hosted on GitHub and updated
+daily, in order for the staff to be able to monitor your progress. Please note
+that the repository must be public!
+
+To create such a document and get your project started, complete the following
+steps:
 
 1. Go to <https://github.com/new> and create a new code repository. Check the box to initialize the repository with a readme document:
 
@@ -47,4 +58,4 @@ To create such a document and get your project started, complete the following s
 
 6. Now, copy the URL of the GitHub page for your project and submit it below. It will be of the form <https://github.com/stgm/project>.
 
-> Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name) and nothing else.
+> Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name), pictures in the **doc** folder, and nothing else.

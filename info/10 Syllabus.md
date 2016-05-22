@@ -1,37 +1,20 @@
 # Programmeerproject
 
-*Winter 2016 (mind you: this page is not final)*
+*Summer 2016 (mind you: this page is not final)*
 
 The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or simply go out in the world and start creating your own software.
 
-## Instructors
+## Instructors and assistants
 
 Martijn Stegeman  
-*instructor*  
-
 Gosia Migut  
-*instructor*
-
 Daan van den Berg  
-*instructor*
-
 Jaap van Bergeijk  
-*teaching assistant*
-
 Hella Haanstra  
-*teaching assistant*
-
 Jasper Linmans  
-*teaching assistant*
-
 Julian Jansen  
-*teaching assistant*
-
 Gracia Redder  
-*teaching assistant*
-
-Wouter Vrielink  
-*teaching assistant*
+Wouter Vrielink
 
 Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
@@ -40,10 +23,11 @@ Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
 
 - proposal (day 1)
-- design document and prototype (day 4/5)
+- design document (day 3)
+- prototype (day 5)
 - incomplete alpha version (day 10)
 - complete beta version (day 15)
-- final version (day 19)
+- final version and report (day 19)
 - product demonstration (day 20)
 
 ## Expectations
@@ -51,15 +35,15 @@ In this course, you will create a single software project, based on the platform
 You are expected to:
 
 - keep track of your progress, bottlenecks and solutions in a process book
-- work at the lab in a team of 5 students who are doing similar projects as you
+- work at the lab in a team of 4 to 5 students who are doing similar projects as you
 - share ideas and knowledge liberally, so as to help other students out with their projects
 - deliver a fully functional application, though possibly limited in options, at the end of the course
 - put all your work, including code and documentation, on GitHub
 - keep a version history of `git` commits of your project that documents daily progress
 - make liberal use of forums, blog posts and other web pages to obtain knowledge needed to implement your application
-- cite, in a section of your project's README, any sources you use
+- cite, in a section of your project's README, and in comments, any sources you use, especially if it concerns code
 
-Note: the project cannot be done on the basis of existing code, under external supervision and/or in exchange for compensation by third parties, at any time. It is, however, possible to do such a project outside of this course. Please contact the course's instructor to discuss.
+> Note: the project cannot be done 1) on the basis of existing code, 2) under external supervision and/or 3) in exchange for any compensation by third parties, at any time. It is, however, possible to do such a project outside of this course. Please contact the course's instructor to discuss.
 
 ## Activies
 
@@ -71,9 +55,9 @@ Note: the project cannot be done on the basis of existing code, under external s
 
 *Guest lectures* --- Where possible, some guest lectures will be scheduled. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. As a general rule, you need to attend them all.
 
-*Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. This will help us grade your project.
+*Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. This will help us grade your project. Without a detailed process book, we cannot grade your project.
 
-*Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 30 January, in the afternoon.
+*Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 24 June, in the afternoon.
 
 ## Assessment
 
@@ -107,10 +91,10 @@ Projects submitted *n* hours late may be penalized by 10% for *n* in (0, 24], by
 
 ## Attendance
 
-You are expected to attend every project day (20 days) between 9:30 and 16:30. You are allowed to miss 10% of this time during the course, but you must in any case attend:
+You are expected to attend every project day (20 days) between 10:00 and 16:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
 - the first Monday
 - every Friday presentation session
 - every daily stand-up
 
-In cases of emergency, please inform the instructors immediately to make arrangements on finishing the course. 
+In cases of emergency, please inform the instructors immediately to make arrangements on finishing the course. In many cases, this will entail finishing the course in the following semester.
