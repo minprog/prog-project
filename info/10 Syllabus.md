@@ -22,13 +22,24 @@ Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions
 
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
 
-- proposal (day 1)
-- design document (day 3)
-- prototype (day 5)
-- incomplete alpha version (day 10)
-- complete beta version (day 15)
-- final version and report (day 19)
-- product demonstration (day 20)
+### Week 1 (day 1 t/m 5)
+
+- monday: proposal
+- wednesday: design document
+- friday: prototype
+
+### Week 2 (day 6 t/m 10)
+
+- friday: incomplete alpha version
+
+### Week 3 (day 11 t/m 15)
+
+- friday: complete beta version
+
+### Week 4 (day 16 t/m 20)
+
+- thursday: final version and report
+- friday: product demonstration
 
 ## Expectations
 
