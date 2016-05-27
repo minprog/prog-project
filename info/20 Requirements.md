@@ -1,6 +1,6 @@
 # Application requirements
 
-Here we list the requirements that all submitted projects should accomodate. *Functional requirements* define the scope of the projects, and *Implementation details* help us more easily test your application and make it useful to a broad audience.
+Here we list the requirements that all submitted projects should accommodate. *Functional requirements* define the scope of the projects, and *Implementation details* help us more easily test your application and make it useful to a broad audience.
 
 ## Functional requirements
 
@@ -12,6 +12,8 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 - The app solves a human problem.
 
+- Your app should implement MVC +blaba
+
 ### Data visualizations
 
 - You are invited to work on a data set of your choosing, as long as it allows a visualization of sufficient complexity to be created (pending approval by the course's instructor).
@@ -19,6 +21,10 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 - The product embodies good visualization practices.
 
 - The visualization has a story telling aspect.
+
+- You must implement at least 3 linked interactive visual componens.
+
+- Also implement at least 2 other interactive components (e.g. table, dropdown, checkbox, etc.).
 
 ## Implementation details
 
@@ -32,7 +38,9 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 - You may select your own project and application name. Your project's *package name* should be prefixed with `nl.mprog.`.
 
-- You must include your name, email, and student ID in a comment atop every Java source file in the project.
+- You must include your name in a comment atop every Java source file in the project.
+
+- Your app must work within the simulator; you need not test it on actual hardware.
 
 ### iOS
 
@@ -48,10 +56,16 @@ Here we list the requirements that all submitted projects should accomodate. *Fu
 
 - Your app must tolerate low-memory warnings (as by reloading views when needed).
 
-- Your app must work within the iPhone 9 Simulator; you need not test it on actual hardware.
+- Your app must work within the simulator; you need not test it on actual hardware.
+
+- You must include your name in a comment atop every Java source file in the project.
 
 ### Web based visualization
 
 - Your visualization is built using client-side techniques working in at least one current generation browser (Chrome or Firefox are recommended).
 
+- Your visualization must be implemented in D3 (use of additional libraries must be approved by an instructor).
+
 - Under no circumstances should we be able to cause your program to crash at runtime.
+
+- You must include your name in a comment atop every source file in the project.
