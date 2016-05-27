@@ -11,21 +11,22 @@ Gosia Migut
 Daan van den Berg  
 Jaap van Bergeijk  
 Hella Haanstra  
-Jasper Linmans  
 Julian Jansen  
-Gracia Redder  
-Wouter Vrielink
 
 Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
 ## Deliverables
 
+hoi julian fix dit ff
+
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
+
 
 - proposal (day 1)
 - design document (day 3)
 - prototype (day 5)
-- incomplete alpha version (day 10)
+
+- incomplete alpha version (friday)
 - complete beta version (day 15)
 - final version and report (day 19)
 - product demonstration (day 20)
@@ -49,6 +50,8 @@ You are expected to:
 
 *Daily stand-up* --- You will be part of a group of five students who work on similar projects. Each day at 10 in the morning, you will have a stand-up meeting to discuss progress. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. From time to time, stand-ups will be visited by instructors or assistants.
 
+*Hour of code* --- where you will present your code an explain your design decisions. These sessions are meant to help each other and provide constructive feedback.
+
 *Friday presentations* --- You will also be part of a larger group with an assigned *mentor* who will guide and coach you during the project. An important part of this is the weekly presentation on Friday where you will update your group on current progress.
 
 *Code reviews* --- Every Wednesday from the second week on, you will perform a systematic review of the codebase of one of your team members. You will get a list of topics to help you focus your feedback. This will help you, and your team members, to deliver better code as part of the final application.
@@ -69,7 +72,7 @@ Your grade for this course will be determined on the basis of five criteria:
 
 *Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness and coherence.
 
-*Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing. 
+*Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing.
 
 *Code* --- To what extent is your code well-designed and readable? The code quality will be graded usign a code quality rubric that you will also use yourself during the weekly code reviews.
 
