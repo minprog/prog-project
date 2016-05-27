@@ -4,7 +4,7 @@ You'll spend the first day building a *problem definition*. A part of this is
 understanding the limitations and possibilities of the platform that you will
 be building your software on.
 
-The result is a *proposal document* that thorougly describes the folowing
+The result is a *proposal document* that thoroughly describes the following
 aspects of your application:
 
 - what problem will be solved for the user
@@ -29,8 +29,6 @@ aspects of your application:
 
 Be sure to make clear which parts of the application define the
 *minimum viable product* (MVP) and which parts may be optional to implement.
-
-![embed](https://www.youtube.com/embed/uDU7IzoUHO0?rel=0&amp;showinfo=0)
 
 ## GitHub
 
