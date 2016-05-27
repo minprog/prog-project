@@ -24,22 +24,22 @@ In this course, you will create a single software project, based on the platform
 
 ### Week 1 (day 1 - 5)
 
-- monday: proposal
-- wednesday: design document
-- friday: prototype
+- Monday: proposal
+- Wednesday: design document
+- Friday: prototype
 
 ### Week 2 (day 6 - 10)
 
-- friday: incomplete alpha version
+- Friday: incomplete alpha version
 
 ### Week 3 (day 11 - 15)
 
-- friday: complete beta version
+- Friday: complete beta version
 
 ### Week 4 (day 16 - 20)
 
-- thursday: final version and report
-- friday: product demonstration
+- Thursday: final version and report
+- Friday: product demonstration
 
 ## Expectations
 
