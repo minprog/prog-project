@@ -48,15 +48,13 @@ You are expected to:
 
 ## Activies
 
-*Daily stand-up* --- You will be part of a group of five students who work on similar projects. Each day at 10 in the morning, you will have a stand-up meeting to discuss progress. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. From time to time, stand-ups will be visited by instructors or assistants.
+*Stand-up* --- You will be part of a group of five students who work on similar projects. In week 1, each day at 10 in the morning, you will have a stand-up meeting to discuss progress. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. From time to time, stand-ups will be visited by instructors or assistants. Need to make a selfie.
 
 *Hour of code* --- where you will present your code an explain your design decisions. These sessions are meant to help each other and provide constructive feedback.
 
+*Lab sessions* ---
+
 *Friday presentations* --- You will also be part of a larger group with an assigned *mentor* who will guide and coach you during the project. An important part of this is the weekly presentation on Friday where you will update your group on current progress.
-
-*Code reviews* --- Every Wednesday from the second week on, you will perform a systematic review of the codebase of one of your team members. You will get a list of topics to help you focus your feedback. This will help you, and your team members, to deliver better code as part of the final application.
-
-*Guest lectures* --- Where possible, some guest lectures will be scheduled. These lectures will help you get ideas on how to make your project even better and what to do when the projects are over. As a general rule, you need to attend them all.
 
 *Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. This will help us grade your project. Without a detailed process book, we cannot grade your project.
 
@@ -94,10 +92,9 @@ Projects submitted *n* hours late may be penalized by 10% for *n* in (0, 24], by
 
 ## Attendance
 
-You are expected to attend every project day (20 days) between 10:00 and 16:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
+You are expected to attend every project day (20 days) between 10:00 and 17:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
 - the first Monday
 - every Friday presentation session
-- every daily stand-up
 
 In cases of emergency, please inform the instructors immediately to make arrangements on finishing the course. In many cases, this will entail finishing the course in the following semester.
