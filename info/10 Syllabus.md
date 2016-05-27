@@ -17,7 +17,7 @@ Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions
 
 ## Deliverables
 
-hoi julian fix dit ff
+*Julian gaat hier iets moois van maken*
 
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
 
@@ -68,11 +68,11 @@ Your grade for this course will be determined on the basis of five criteria:
 
 *Process* --- To what extent have you followed a rigorous design and development process and have you worked with others to enhance your and their learning? The process will be grades on the basis of peer assessment and on evaluation of rigor as evidenced in your process book.
 
-*Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness and coherence.
+*Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness, coherence and interaction design.
 
 *Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing.
 
-*Code* --- To what extent is your code well-designed and readable? The code quality will be graded usign a code quality rubric that you will also use yourself during the weekly code reviews.
+*Code* --- To what extent is your code well-designed and readable? The code quality will be graded using a code quality rubric that you will also use yourself during the weekly code reviews.
 
 On each of these criteria, you will receive a grade 1--5:
 

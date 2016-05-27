@@ -29,12 +29,11 @@ Some parts that you may describe here:
 
 - a list of data sources if you will get data from an external source
 
-- a list of database tables and fields (and their types) that you might need to
-  save user data
+- a list of database tables and fields (and their types) if you will use a database
 
 If your application has multiple independent programs working together (e.g. a
 separate script to clean your dataset) you need to provide a high-level
-overview of these components and then provide a lowel-level overview of the
+overview of these components and then provide a lower-level overview of the
 inner workings of each component.
 
 ## Repository
