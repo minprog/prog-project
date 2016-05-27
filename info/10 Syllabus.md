@@ -9,19 +9,17 @@ The programming project is the final course of the programming minor, and for th
 Martijn Stegeman  
 Gosia Migut  
 Daan van den Berg  
+
+Hella Haanstra
 Jaap van Bergeijk  
-Hella Haanstra  
 Julian Jansen  
 
 Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
 ## Deliverables
 
-*Julian gaat hier iets moois van maken*
-
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
 
-<<<<<<< HEAD
 ### Week 1 (day 1 - 5)
 
 - Monday: proposal
@@ -40,17 +38,6 @@ In this course, you will create a single software project, based on the platform
 
 - Thursday: final version and report
 - Friday: product demonstration
-=======
-
-- proposal (day 1)
-- design document (day 3)
-- prototype (day 5)
-
-- incomplete alpha version (friday)
-- complete beta version (day 15)
-- final version and report (day 19)
-- product demonstration (day 20)
->>>>>>> uva/master
 
 ## Expectations
 
