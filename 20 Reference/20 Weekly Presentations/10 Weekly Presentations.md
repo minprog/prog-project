@@ -11,7 +11,7 @@ how the application will be built technically. Finally, mention the big things
 that you still have to investigate, and what will be difficult about your
 project.
 
-Every student has at most 7 minutes. Powerpoint is not allowed!
+Every student has at most 7 minutes. PowerPoint is not allowed!
 
 ## Week 2
 

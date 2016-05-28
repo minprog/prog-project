@@ -40,6 +40,8 @@ For *Xcode*:
 - choose Swift as your language and select *Next*
 - then, as your project location choose the folder that is the root of your repository
 
+![embed](https://player.vimeo.com/video/161756276)
+
 For a *D3 visualization* project:
 
 - create a folder inside your repository that is named after your project
