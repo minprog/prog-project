@@ -2,71 +2,82 @@
 
 *Summer 2016 (mind you: this page is not final)*
 
-The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or simply go out in the world and start creating your own software.
+The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go out in the world and start creating your own software.
 
 ## Instructors and assistants
 
 Martijn Stegeman  
 Gosia Migut  
 Daan van den Berg  
-
-Hella Haanstra
+Hella Haanstra  
 Jaap van Bergeijk  
-Julian Jansen  
+Julian Jansen
 
-Please send your e-mails to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
+Please send any e-mail to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
-## Deliverables
+## Activies
 
-In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses. You will deliver this project by way of milestones:
+In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses: iOS, Android or JS/D3. Your task is to deliver a fully functional and useful application at the end of the course.
 
-### Week 1 (day 1 - 5)
+*Stand-up* --- In the first week, you will start your day with a stand-up meeting to discuss progress with about four teammates. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. Stand-ups might be visited by instructors or assistants.
+
+*Hour of code* --- In all other weeks, the day starts with a feedback session where every aspect of your application might be vetted: the concept, the interaction design, as well as the code itself. These sessions are meant to help one another and include constructive feedback.
+
+*Lab sessions* --- As expected in a project course, most of your day will be spent designing and coding up your application. In the afternoons, assistance will be available from the course's staff, who consult on design decisions and  provide feedback on ideas or code.
+
+*Friday presentations* --- You will also be part of a larger group with an assigned *mentor* who will guide and coach you during the project. An important part of this is the weekly presentation on Friday where you will update your group on current progress.
+
+*Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. It contains your daily resume of design decisions and other considerations.
+
+*Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 24 June, in the afternoon.
+
+## Schedule
+
+Your application will be developed with help of the following milestones:
+
+### Week 1
 
 - Monday: proposal
 - Wednesday: design document
 - Friday: prototype
 
-### Week 2 (day 6 - 10)
+### Week 2
 
 - Friday: incomplete alpha version
 
-### Week 3 (day 11 - 15)
+### Week 3
 
 - Friday: complete beta version
 
-### Week 4 (day 16 - 20)
+### Week 4
 
 - Thursday: final version and report
 - Friday: product demonstration
 
 ## Expectations
 
-You are expected to:
+You are expected to participate in these course activities:
 
 - keep track of your progress, bottlenecks and solutions in a process book
-- work at the lab in a team of 4 to 5 students who are doing similar projects as you
+- work daily at the lab in a team of 4 to 5 students who are doing similar projects as you
+- attend daily standups and the hour of code every workday
 - share ideas and knowledge liberally, so as to help other students out with their projects
 - deliver a fully functional application, though possibly limited in options, at the end of the course
 - put all your work, including code and documentation, on GitHub
-- keep a version history of `git` commits of your project that documents daily progress
+- keep a version history of `git` commits of your project that documents your daily progress
 - make liberal use of forums, blog posts and other web pages to obtain knowledge needed to implement your application
-- cite, in a section of your project's README, and in comments, any sources you use, especially if it concerns code
+- cite, in a section of your project's README, and in comments, any sources you use, especially if it concerns borrowing code
 
-> Note: the project cannot be done 1) on the basis of existing code, 2) under external supervision and/or 3) in exchange for any compensation by third parties, at any time. It is, however, possible to do such a project outside of this course. Please contact the course's instructor to discuss.
+> Note: the project cannot be done 1) on the basis of an existing codebase, 2) under external supervision and/or 3) in exchange for any compensation by third parties, at any time. It might, however, be possible to do such a project outside of this course. Please contact the course's instructor to discuss.
 
-## Activies
+## Attendance
 
-*Stand-up* --- You will be part of a group of five students who work on similar projects. In week 1, each day at 10 in the morning, you will have a stand-up meeting to discuss progress. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. From time to time, stand-ups will be visited by instructors or assistants. Need to make a selfie.
+You are expected to attend every project day (20 days) between 10:00 and 17:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
-*Hour of code* --- where you will present your code an explain your design decisions. These sessions are meant to help each other and provide constructive feedback.
+- the first Monday (because of the first deadline)
+- every Friday presentation session
 
-*Lab sessions* ---
-
-*Friday presentations* --- You will also be part of a larger group with an assigned *mentor* who will guide and coach you during the project. An important part of this is the weekly presentation on Friday where you will update your group on current progress.
-
-*Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. This will help us grade your project. Without a detailed process book, we cannot grade your project.
-
-*Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 24 June, in the afternoon.
+In cases of emergency, please inform the instructors immediately to make arrangements on finishing the course. In many cases, this will entail finishing the course in the following semester.
 
 ## Assessment
 
@@ -80,7 +91,7 @@ Your grade for this course will be determined on the basis of five criteria:
 
 *Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing.
 
-*Code* --- To what extent is your code well-designed and readable? The code quality will be graded using a code quality rubric that you will also use yourself during the weekly code reviews.
+*Code* --- To what extent is your code well-designed and readable? The code quality will be graded using a code quality rubric that will also be used during the daily Hour of Code.
 
 On each of these criteria, you will receive a grade 1--5:
 
@@ -90,19 +101,10 @@ On each of these criteria, you will receive a grade 1--5:
 4. Very good: minor room for improvement
 5. Excellent: essentially no room for improvement
 
-Do note that failing to meet expectations, as stated in an earlier section, will generally result in a failing grade.
+Failing to meet expectations as stated earlier will generally result in a failing grade for the course.
 
 ## Deadlines
 
 Extensions on projects, documentation and set-up are not granted, except in cases of emergency. Technical difficulties do not constitute emergencies. If you ask for an exception *after* the deadline we require that you see a student advisor.
 
 Projects submitted *n* hours late may be penalized by 10% for *n* in (0, 24], by 25% for *n* in (24, 48], by 50% for *n* in (48, 72], and by 100% for *n* greater than 72. Lateness will be determined by submissions' timestamps.
-
-## Attendance
-
-You are expected to attend every project day (20 days) between 10:00 and 17:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
-
-- the first Monday
-- every Friday presentation session
-
-In cases of emergency, please inform the instructors immediately to make arrangements on finishing the course. In many cases, this will entail finishing the course in the following semester.
