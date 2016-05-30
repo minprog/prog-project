@@ -54,6 +54,6 @@ steps:
 
 5. Discuss the contents of your with fellow students and the teaching crew *before* handing it in!
 
-6. Now, copy the URL of the GitHub page for your project and submit it below. It will be of the form <https://github.com/stgm/project>.
+6. Now, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
 
 > Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name), pictures in the **doc** folder, and nothing else.
