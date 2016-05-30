@@ -12,7 +12,7 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - The app solves a human problem.
 
-- Your app should implement MVC +blaba
+- Your app should implement MVC
 
 ### Data visualizations
 
@@ -38,7 +38,7 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - You may select your own project and application name. Your project's *package name* should be prefixed with `nl.mprog.`.
 
-- You must include your name in a comment atop every Java source file in the project.
+- You must include your name in a comment atop every source file in the project.
 
 - Your app must work within the simulator; you need not test it on actual hardware.
 

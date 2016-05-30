@@ -12,6 +12,7 @@ Daan van den Berg
 Hella Haanstra  
 Jaap van Bergeijk  
 Julian Jansen
+Sascha van Essen
 
 Please send any e-mail to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
