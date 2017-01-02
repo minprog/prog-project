@@ -1,4 +1,4 @@
-# Application requirements
+# Product requirements
 
 Here we list the requirements that all submitted projects should accommodate. *Functional requirements* define the scope of the projects, and *Implementation details* help us more easily test your application and make it useful to a broad audience.
 

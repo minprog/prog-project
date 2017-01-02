@@ -1,10 +1,10 @@
 # Programmeerproject
 
-*Summer 2016 (mind you: this page is not final)*
+*Winter 2017*
 
 The programming project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go out in the world and start creating your own software.
 
-## Instructors and assistants
+## Staff
 
 Martijn Stegeman  
 Gosia Migut  
@@ -12,13 +12,30 @@ Daan van den Berg
 Hella Haanstra  
 Jaap van Bergeijk  
 Julian Jansen  
-Sascha van Essen
+Sascha van Essen  
+Gracia Redder  
+Renske Talsma  
+Bas Chatel  
+Tinka Zorge  
+Tim Meijer
 
-Please send any e-mail to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
+Please send any question by e-mail to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 
-## Activies
+## Course plan
 
 In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses: iOS, Android or JS/D3. Your task is to deliver a fully functional and useful application at the end of the course.
+
+Your application will be developed with help of the following milestones:
+
+- Monday: proposal
+- Wednesday: design document
+- Friday: prototype
+- Second Friday: incomplete alpha version
+- Third Friday: complete beta version
+- Fourth Thursday: final version and report
+- Fourth Friday: product demonstration
+
+## Activities
 
 *Stand-up* --- In the first week, you will start your day with a stand-up meeting to discuss progress with about four teammates. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. Stand-ups might be visited by instructors or assistants.
 
@@ -31,29 +48,6 @@ In this course, you will create a single software project, based on the platform
 *Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. It contains your daily resume of design decisions and other considerations.
 
 *Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 24 June, in the afternoon.
-
-## Schedule
-
-Your application will be developed with help of the following milestones:
-
-### Week 1
-
-- Monday: proposal
-- Wednesday: design document
-- Friday: prototype
-
-### Week 2
-
-- Friday: incomplete alpha version
-
-### Week 3
-
-- Friday: complete beta version
-
-### Week 4
-
-- Thursday: final version and report
-- Friday: product demonstration
 
 ## Expectations
 
@@ -102,10 +96,10 @@ On each of these criteria, you will receive a grade 1--5:
 4. Very good: minor room for improvement
 5. Excellent: essentially no room for improvement
 
-Failing to meet expectations as stated earlier will generally result in a failing grade for the course.
+Failing to meet expectations as mentioned will generally result in a failing grade for the course.
 
-## Deadlines
+## Deadlines and late submissions
 
-Extensions on projects, documentation and set-up are not granted, except in cases of emergency. Technical difficulties do not constitute emergencies. If you ask for an exception *after* the deadline we require that you see a student advisor.
+Extensions on projects, documentation and set-up are not granted, except in cases of emergency. Technical difficulties do not constitute emergencies. If you ask for an exception *after* a deadline we require that you see a student advisor.
 
 Projects submitted *n* hours late may be penalized by 10% for *n* in (0, 24], by 25% for *n* in (24, 48], by 50% for *n* in (48, 72], and by 100% for *n* greater than 72. Lateness will be determined by submissions' timestamps.
