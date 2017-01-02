@@ -1,4 +1,4 @@
-# Programmeerproject
+# Programmeerproject<br><small>Studiewijzer</small>
 
 *Winter 2017*
 
