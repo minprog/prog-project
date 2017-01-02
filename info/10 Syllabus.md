@@ -47,7 +47,7 @@ Your application will be developed with help of the following milestones:
 
 *Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. It contains your daily resume of design decisions and other considerations.
 
-*Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 24 June, in the afternoon.
+*Product presentation* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 3 Februari, in the afternoon.
 
 ## Expectations
 
