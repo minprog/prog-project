@@ -44,7 +44,7 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 ### iOS
 
-- Your app's source code should be managed in an *Xcode 7* project.
+- Your app's source code should be managed in an *Xcode 8* project.
 
 - Your app's UI should be sized for an iPhone or iPod touch (i.e., 320 &times; 480 points) or for an iPad (i.e., 768 &times; 1024 points).
 
@@ -58,7 +58,7 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - Your app must work within the simulator; you need not test it on actual hardware.
 
-- You must include your name in a comment atop every Java source file in the project.
+- You must include your name in a comment atop every Swift source file in the project.
 
 ### Web based visualization
 
