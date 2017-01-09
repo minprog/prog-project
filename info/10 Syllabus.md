@@ -67,7 +67,7 @@ You are expected to participate in these course activities:
 
 ## Attendance
 
-You are expected to attend every project day (20 days) between 10:00 and 17:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
+You are expected to attend every project day (20 days) between 10:00 and 16:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
 - the first Monday (because of the first deadline)
 - every Friday presentation session
