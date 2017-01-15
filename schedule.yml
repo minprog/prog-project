@@ -14,7 +14,7 @@ Week 1:
 Week 2:
     'Attend the daily standups': '/reference/daily-standup'
     'div2': '---'
-    'Create an alpha version [deadline: Friday 14:00]': '/milestones/alpha-version'
+    'Create an alpha version': '/milestones/alpha-version'
     'Give your weekly presentation [Friday]': '/reference/weekly-presentations'
     'div1': '---'
     'Keep your repository tidy': '/reference/repository-setup'
@@ -23,7 +23,7 @@ Week 2:
 Week 3:
     'Hour of Code [daily]': '/reference/hour-of-code'
     'div2': '---'
-    'Create a beta version [deadline: Friday 14:00]': '/milestones/beta-version'
+    'Create a beta version': '/milestones/beta-version'
     'Give your weekly presentation [Friday]': '/reference/weekly-presentations'
     'div1': '---'
     'Keep your repository tidy': '/reference/repository-setup'
