@@ -1,8 +1,7 @@
 # Project Proposal
 
-You'll spend the first day building a *problem definition*. A part of this is
-understanding the limitations and possibilities of the platform that you will
-be building your software on.
+You'll spend the first <strong>day</strong> building a *problem definition*. A
+part of this is understanding how to fit your software on the platform that you will be using to develop it.
 
 The result is a *proposal document* that thoroughly describes the following
 aspects of your application:
@@ -11,7 +10,7 @@ aspects of your application:
 
 - what features will be available to solve the problem
 
-- an overview sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out
+- a visual sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out; not in full detail though
 
 - what data sets and data sources will you need, how you will get the data into
   the right form for your app
@@ -19,7 +18,7 @@ aspects of your application:
 - what separate parts of the application can be defined (decomposing the
   problem) and how these should work together
 
-- what external components (APIs) you need to make certain features possible
+- what external components (APIs) you probably need to make certain features possible
 
 - technical problems or limitations that could arise during development and what possibilities you have to overcome these
 

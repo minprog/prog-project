@@ -1,10 +1,12 @@
-## Delivering the finished product (deadline: Thursday!!!)
+## Delivering the finished product
 
-This week, you'll work towards submitting the final code of your project. Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading.
+This week, you'll work towards submitting the final code of your project.
+
+> Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading. This means that every button should work; i.e., there are no loose end visible to the user.
 
 ## Changing the `README.md` and choosing a license for your work
 
-Your GitHub repository should contain a complete **README.md** file that states the application name, a couple of screen shot (not too large!), its purpose, your name and a copyright statement. It should be easy to read.
+Your GitHub repository should contain a complete **README.md** file that states the application name, a couple of screen shots (resized to appropriate width/height for readability), its purpose, your name and a copyright statement. The README should be easy to read.
 
 The copyright statement can be either:
 

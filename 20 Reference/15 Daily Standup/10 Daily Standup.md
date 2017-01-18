@@ -20,7 +20,26 @@ Every standup, you must provide a brief report on what has been discussed. It is
 
 In Week 1, use the following themes during your standup meetings:
 
-- Day 2: present what is in your proposal and brainstorm how to actually create your product
 - Day 3: present your proposed technical design and feedback each other on what's missing
 - Day 4: show your prototype and for the first time, tell what you will be coding today
 
+## Week 2
+
+- Day 1: present your plans for the week, what is realistic?
+- Day 2: show your progress from Monday
+- Day 3: take an hour or so to create a style guide with your team!
+- Day 4: finish the style guide, making sure that every has had the opportunity to prodide input
+
+## Week 3 ##
+
+- Day 1: present your plans for the week, what is realistic?
+- Day 2: show your progress from Monday
+- Day 3: everyone shows the team their repo and gets open feedback; the goal is to find out if the repo structure and its code is easy to understand
+- Day 4: everyone tells about their progress and the others help make a realistic plan for finalizing functionality
+
+## Week 4
+
+- Day 1: present your plans for the week, what is realistic?
+- Day 2: show your progress from Monday
+- Day 3: everyone shows their code, browsing around; others quickly provide feedback on the quality of the code (var. names, method names, comments, etc)
+- Day 4: everyone provides an update and makes a decision of what to submit and what to delete (if needed). others help!
