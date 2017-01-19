@@ -6,35 +6,41 @@ During the last week you will work on improving the quality of your code. To gui
 - Write Simple Units of Code
 - Write Code Once
 - Keep Unit Interfaces Small
-- Seperate Concerns in Modules
+- Separate Concerns in Modules
 - Couple Architecture Components Loosely
 - Keep Architecture Components Balanced
 - Keep Your Codebase Small
-- Automate Tests (not in the scope of this course)
+- Automate Tests (You can ignore this guideline for now, since it is not in the scope of this course.)
 - Write Clean Code
 
-Within Better Code Hub you can read up on these guidelines. If you want more in depth information, take a look at the book "Building Maintainable Software". You can find this book on the shelf in A1.16.
+Within Better Code Hub you can read up on these guidelines. If you want more in depth information, take a look at the "[Building Maintainable Software](http://shop.oreilly.com/product/0636920049159.do)" book written by Joost Visser. You can find this book on the shelf in A1.16.
 
 ## Rank
 
 ![BCH Grade](grade.png)
 
-## Tasklist
+## Task list
 
-Create a tasklist of problem areas in your code. This helps you to focus on fixing these problem areas. Note: use areas, and don't list all of the specific problems!
+Create a task list of problem areas in your code. This helps you to focus on fixing these problem areas. Note: use areas, and don't list all of the specific problems!
 
-You can use the tasklist tool within Better Code Hub:
+You can use the task list tool within Better Code Hub:
 
-![BCH Tasklist](tasklist.png)
+![BCH Task list](tasklist.png)
 
-Now it is your job to interpret this tasklist and make descisions on how to improve your code. You can use the aforementioned book to help you better understand the guidelines. And ask your teachers!
+See which tasks have the highest impact on the guideline. By selecting the tasks, the guideline gives you a prediction:
+
+![BCH Guideline](guideline.png)
+
+See how the green bar moved past the yellow line after selecting a task.
+
+Now it is your job to interpret this task list and make decisions on how to improve your code. You can use the aforementioned book to help you better understand the guidelines. And ask your teachers!
 
 ## Deliver
 
 You must document your audit of the code quality. Save a report as **AUDIT.md** in the root of your GitHub repository. This must contain:
 
 - A screenshot of the rank as shown above (including the 10 icons)
-- A summary of the tasklist you created and prioritize by ordering the tasks. (Define the order)
+- A summary of the task list you created and order the tasks by highest impact.
 
 And add the Better Code Hub status badge to the bottom of your README.MD (so cool). This is what it might look like:
 
