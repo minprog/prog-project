@@ -21,7 +21,7 @@ Within Better Code Hub you can read up on these guidelines. If you want more in 
 
 ## Task list
 
-Create a task list of problem areas in your code. This helps you to focus on fixing these problem areas. Note: use areas, and don't list all of the specific problems!
+Create a task list of problem areas in your code. This helps you to focus on fixing these problem areas. Note: use areas, and don't list all the specific problems!
 
 You can use the task list tool within Better Code Hub:
 
@@ -42,7 +42,7 @@ You must document your audit of the code quality. Save a report as **AUDIT.md** 
 - A screenshot of the rank as shown above (including the 10 icons)
 - A summary of the task list you created and order the tasks by highest impact.
 
-And add the Better Code Hub status badge to the bottom of your README.MD (so cool). This is what it might look like:
+And add the Better Code Hub status badge to the bottom of your **README.MD** (so cool). This is what it might look like:
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/jlnjnsn/QLSwift)](https://bettercodehub.com)
 
