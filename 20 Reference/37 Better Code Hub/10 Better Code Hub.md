@@ -15,6 +15,20 @@ During the last week you will work on improving the quality of your code. To gui
 
 Within Better Code Hub you can read up on these guidelines. If you want more in depth information, take a look at the "[Building Maintainable Software](http://shop.oreilly.com/product/0636920049159.do)" book written by Joost Visser. You can find this book on the shelf in A1.16.
 
+## Setup
+
+Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (like CocoaPods, JS files you did not write, etc.)
+
+You can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" in Better Code Hub.
+
+This might look like:
+
+`exclude:
+- /Ghost/GhostTests/GhostTests.swift
+component_depth: 1
+languages:
+- swift`
+
 ## Rank
 
 ![BCH Grade](grade.png)
