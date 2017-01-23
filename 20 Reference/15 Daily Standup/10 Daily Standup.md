@@ -34,8 +34,8 @@ In Week 1, use the following themes during your standup meetings:
 
 - Day 1: present your plans for the week, what is realistic?
 - Day 2: show your progress from Monday
-- Day 3: everyone shows the team their repo and gets open feedback; the goal is to find out if the repo structure and its code is easy to understand
-- Day 4: everyone tells about their progress and the others help make a realistic plan for finalizing functionality
+- Day 3: everyone shows the team their repo and gets open feedback; the goal is to find out if the repo structure and class structure are easy to understand
+- Day 4: everyone tells about their progress and the others help make a realistic plan for finalizing functionality or cutting features
 
 ## Week 4
 
