@@ -17,17 +17,19 @@ Within Better Code Hub you can read up on these guidelines. If you want more in 
 
 ## Setup
 
-Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (like CocoaPods, JS files you did not write, etc.)
+Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (CocoaPods are excluded by default (go heuristics!)).
 
-You can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" in Better Code Hub.
+You can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
 
-This might look like:
+![BCH Config](yml.png)
+
+This might look like for iOS:
 
 `exclude:
-- /Ghost/GhostTests/GhostTests.swift
+- /mylibrary/src/.*
 component_depth: 1
 languages:
-- swift`
+- java`
 
 ## Rank
 
