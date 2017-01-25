@@ -23,7 +23,7 @@ First do an initial analysis of your repository, so the "Analysis configuration"
 
 ![BCH Config](yml.png)
 
-This might look like for iOS:
+This might look like:
 
 `exclude:`
 
@@ -59,7 +59,7 @@ Now it is your job to interpret this task list and make decisions on how to impr
 
 You must document your audit of the code quality. Save a report as **AUDIT.md** in the root of your GitHub repository. This must contain:
 
-- A screenshot of the rank as shown above (including the 10 icons)
+- A screenshot of the rank as shown above (including the 10 icons).
 - A summary of the task list you created and order the tasks by highest impact.
 
 And add the Better Code Hub status badge to the bottom of your **README.MD** (so cool). This is what it might look like:
