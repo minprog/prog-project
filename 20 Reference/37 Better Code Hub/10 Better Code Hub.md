@@ -26,9 +26,13 @@ First do an initial analysis of your repository, so the "Analysis configuration"
 This might look like:
 
 `exclude:`
+
 `- /mylibrary/src/.*`
+
 `component_depth: 1`
+
 `languages:`
+
 `- java`
 
 ## Rank
