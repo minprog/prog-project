@@ -26,9 +26,13 @@ First do an initial analysis of your repository, so the "Analysis configuration"
 This might look like:
 
 `exclude:`
+
 `- /mylibrary/src/.*`
+
 `component_depth: 1`
+
 `languages:`
+
 `- java`
 
 ## Rank
@@ -65,6 +69,10 @@ And add the Better Code Hub status badge to the bottom of your **README.MD** (so
 You can find the Markdown code under settings:
 
 ![BCH Settings](settings.png)
+
+## Note
+
+A high Better Code Hub score does not automatically result in a high course grade. Your project is graded along more dimensions than code quality. Consult the rubric you have used during the code reviews and find the overlapping criterica with Better Code Hub.
 
 ## Help
 
