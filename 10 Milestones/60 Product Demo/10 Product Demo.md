@@ -5,6 +5,7 @@ and your mentor fully understand what you have built, prepare a brief demo of al
 
 Program:
 
-- 13:30--16:30: demonstrations by group
-- 16:30--18:00: drinks, snacks and goodbyes!
+- 9:00--10:00: guest talk by Felienne Hermans
+- 10:00--15:00: demonstrations by group
+- 15:00--17:00: drinks, snacks and goodbyes!
 
