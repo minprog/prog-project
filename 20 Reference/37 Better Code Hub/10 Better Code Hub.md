@@ -66,6 +66,10 @@ You can find the Markdown code under settings:
 
 ![BCH Settings](settings.png)
 
+## Note
+
+A high Better Code Hub score does not automatically result in a high course grade. Your project is graded along more dimensions than code quality. Consult the rubric you have used during the code reviews and find the overlapping criterica with Better Code Hub.
+
 ## Help
 
 Feel free to contact Julian at [j.jansen@sig.eu](mailto:j.jansen@sig.eu) in case of problems, questions and/or suggestions. 
