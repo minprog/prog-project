@@ -14,7 +14,6 @@ calculation:
         all: 1
 
 all:
-    type: float
     required: true
-    grades:
+    submits:
         github: 1
