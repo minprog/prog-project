@@ -1,7 +1,12 @@
 # Project Proposal
 
-You'll spend the first <strong>day</strong> building a *problem definition*. A
-part of this is understanding how to fit your software on the platform that you will be using to develop it.
+You'll spend the first <strong>day</strong> building a *proposal document*. It describes a problem in the real world that you are trying to solve. It also paints a fairly complete picture of what your application will look like, how the user will interact with it and consequently, how it will solve the problem.
+
+> Writing a good proposal document will help you successfully finish the project on day 19. Your project has a high risk of failure if:
+> 
+> - the envisioned product tries to do too much
+> - the envisioned product doesn't do enough
+> - the purpose of the product is not well-defined (too vague)
 
 The result is a *proposal document* that thoroughly describes the following
 aspects of your application:
@@ -10,7 +15,7 @@ aspects of your application:
 
 - what features will be available to solve the problem
 
-- a visual sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out; not in full detail though
+- a visual sketch of what the application will look like for the user; if you envision the application to have multiple screens, sketch these all out separately
 
 - what data sets and data sources will you need, how you will get the data into
   the right form for your app
@@ -18,16 +23,13 @@ aspects of your application:
 - what separate parts of the application can be defined (decomposing the
   problem) and how these should work together
 
-- what external components (APIs) you probably need to make certain features possible
+- which external components (online APIs, libraries etc.) you will need to make certain features possible (name and URL link)
 
 - technical problems or limitations that could arise during development and what possibilities you have to overcome these
 
-- a review of similar applications or visualizations in terms of features and technical aspects (what do they offer? how have they implemented it?)
+- a review of similar mobile apps or related visualizations, in terms of features and technical aspects (what do they offer? how have they implemented it? can you do it in the same way?)
 
-## Minimum viable product
-
-Be sure to make clear which parts of the application define the
-*minimum viable product* (MVP) and which parts may be optional to implement.
+- which parts of the application define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
 ## GitHub
 
