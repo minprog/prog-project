@@ -7,6 +7,8 @@ You'll spend the first <strong>day</strong> building a *proposal document*. It d
 > - the envisioned product tries to do too much
 > - the envisioned product doesn't do enough
 > - the purpose of the product is not well-defined (too vague)
+>
+> By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can easily avoid these risks.
 
 The result is a *proposal document* that thoroughly describes the following
 aspects of your application:
