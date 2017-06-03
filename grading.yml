@@ -1,11 +1,19 @@
+grades:
+    github:
+        type: float
+        subgrades:
+            solution: integer
+            implementation: integer
+            process: integer
+            code: integer
+            report: integer
+        calculation: ((solution + implementation + process + code + report) / 25.0 * 9 + 1).round(1)
+
 calculation:
     normal:
         all: 1
 
 all:
-    type: float
     required: true
-    grades:
-        verslag: 1
-        solution: 1
+    submits:
         github: 1

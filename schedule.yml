@@ -1,11 +1,11 @@
 Preview:
-    'Write a proposal [deadline: Monday]': '/milestones/project-proposal'
+    'Write a proposal [deadline: Tuesday]': '/milestones/project-proposal'
 Week 1:
     'Attend the daily standups': '/reference/daily-standup'
     'div2': '---'
-    'Write a proposal [deadline: Monday]': '/milestones/project-proposal'
-    'Create a design document [deadline: Wednesday]': '/milestones/design-document'
-    'Create a prototype version [deadline: Friday 14:00]': '/milestones/prototype-version'
+    'Write a proposal [deadline: Tuesday]': '/milestones/project-proposal'
+    'Create a design document [deadline: Thursday]': '/milestones/design-document'
+    'Create a prototype version [deadline: Thursday]': '/milestones/prototype-version'
     'Give your weekly presentation [Friday]': '/reference/weekly-presentations'
     'div1': '---'
     'Set up your repository': '/reference/repository-setup'
@@ -14,7 +14,7 @@ Week 1:
 Week 2:
     'Attend the daily standups': '/reference/daily-standup'
     'div2': '---'
-    'Create an alpha version [Friday]': '/milestones/alpha-version'
+    'Create an alpha version [Thursday]': '/milestones/alpha-version'
     'Give your weekly presentation [Friday]': '/reference/weekly-presentations'
     'div1': '---'
     'Keep your repository tidy': '/reference/repository-setup'
@@ -23,7 +23,7 @@ Week 2:
 Week 3:
     'Attend the daily standups': '/reference/daily-standup'
     'div2': '---'
-    'Create a beta version [Friday]': '/milestones/beta-version'
+    'Create a beta version [Thursday]': '/milestones/beta-version'
     'Give your weekly presentation [Friday]': '/reference/weekly-presentations'
     'Create an audit report [Friday]': '/milestones/beta-version'
     'div1': '---'
