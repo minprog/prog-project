@@ -33,7 +33,7 @@ aspects of your application:
 
 - which parts of the application define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
-## GitHub and Better Code Hub
+## GitHub
 
 All documentation and code of this project must be hosted on GitHub and updated
 daily, in order for the staff to be able to monitor your progress. Please note
@@ -58,11 +58,5 @@ steps:
 5. Discuss the contents of your with fellow students and the teaching crew *before* handing it in!
 
 6. Now, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
-
-7. Setup Better Code Hub to monitor the quality of your code. Don't forget to activate **"Push & Pull request analysis"**. Head to the [manual](/reference/better-code-hub for instructions on how to correctly setup the Better Code Hub integration!
-
-9. Add the Better Code Hub status badge to the bottom of your **README.MD** (so cool). This is what it might look like:
-
-[![BCH compliance](https://bettercodehub.com/edge/badge/jlnjnsn/QLSwift)](https://bettercodehub.com)
 
 > Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name), pictures in the **doc** folder, and nothing else.
