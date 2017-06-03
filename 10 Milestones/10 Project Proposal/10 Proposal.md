@@ -10,8 +10,7 @@ You'll spend the first <strong>day</strong> building a *proposal document*. It d
 >
 > By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can easily avoid these risks.
 
-The result is a *proposal document* that thoroughly describes the following
-aspects of your application:
+These are the expected contents of your proposal document:
 
 - what problem will be solved for the user
 
