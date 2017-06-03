@@ -34,13 +34,15 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - Your app should target a recent version of the Android SDK and need not be backwards compatible.
 
-- Under no circumstances should we be able to cause your program to crash at runtime.
+- Under no circumstances should we be able to cause your program to crash at runtime. Staff is quite good at finding "crash opportunities".
 
-- You may select your own project and application name. Your project's *package name* should be prefixed with `nl.mprog.`.
+- You may select your own project and application name.
 
-- You must include your name in a comment atop every source file in the project.
+- Your app must use Java as the source code language.
 
 - Your app must work within the simulator; you need not test it on actual hardware.
+
+- You must include your name in a comment atop every source file in the project (unless re-using a source file from another project).
 
 ### iOS
 
@@ -48,9 +50,9 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - Your app's UI should be sized for an iPhone or iPod touch (i.e., 320 &times; 480 points) or for an iPad (i.e., 768 &times; 1024 points).
 
-- Under no circumstances should we be able to cause your program to crash at runtime.
+- Under no circumstances should we be able to cause your program to crash at runtime. Staff is quite good at finding "crash opportunities".
 
-- Your project's *Product Name* may be anything. Your project's *Company Identifier* should be `nl.mprog`.
+- You may select your own project and application name.
 
 - Your app must use Swift as the source code language.
 
@@ -58,7 +60,7 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - Your app must work within the simulator; you need not test it on actual hardware.
 
-- You must include your name in a comment atop every Swift source file in the project.
+- You must include your name in a comment atop every source file in the project (unless re-using a source file from another project).
 
 ### Web based visualization
 
@@ -66,6 +68,6 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 - Your visualization must be implemented in D3 (use of additional libraries must be approved by an instructor).
 
-- Under no circumstances should we be able to cause your program to crash at runtime.
+- Under no circumstances should we be able to cause your program to crash at runtime. Staff is quite good at finding "crash opportunities".
 
 - You must include your name in a comment atop every source file in the project.

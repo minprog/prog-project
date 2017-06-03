@@ -2,9 +2,9 @@
 
 Based on your proposal, you can now start studying your problem in a more
 technical fashion. The teaching staff and your fellow students can help you
-spot if there are fundamental problems that need to be solved, or if there
-technical limitations that will likely prevent you from finishing the
-application.
+spot fundamental problems that need to be solved, or if
+technical limitations will likely prevent you from finishing the
+project.
 
 ## An overview of your application
 
@@ -14,11 +14,11 @@ Think about and fully express how the user interface will be handled, where the
 data is coming from, and how the various parts will work together to form a
 complete application.
 
-> It is expected that you separate in your code the user interface from the data management and from complex algorithms whenever possible.
+> It is expected that you separate, in your code, handling of the user interface from data management and from complex algorithms whenever possible.
 
 Some parts that you may describe here:
 
-- a diagram of modules or classes that you’ve decided to implement, in
+- a diagram of modules, classes and functions that you’ve decided to implement, in
   appropriate detail
 
 - advanced sketches of your UI that clearly explain which features are
