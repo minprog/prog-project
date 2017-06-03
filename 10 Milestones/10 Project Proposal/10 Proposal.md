@@ -58,7 +58,7 @@ steps:
 
 6. Now, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
 
-7. Setup Better Code Hub to monitor the quality of your code. Don't forget to activate **"Push & Pull request analysis"**. Head to the [manual](/reference/better-code-hub for instructions on how to correctly setup the Better Code Hub integration!
+7. Setup Better Code Hub to monitor the quality of your code. Don't forget to activate **"Push & Pull request analysis"**. Head to the [manual](/reference/better-code-hub) for instructions on how to correctly setup the Better Code Hub integration!
 
 9. Add the Better Code Hub status badge to the bottom of your **README.MD** (so cool). This is what it might look like:
 
