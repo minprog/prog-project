@@ -1,6 +1,6 @@
 # Better Code Hub
 
-During the last week you will work on improving the quality of your code. To guide you in this task, you use [Better Code Hub](https://www.bettercodehub.com). This website analyzes your repository along 10 guidelines for maintainability:
+[Better Code Hub](https://www.bettercodehub.com) analyzes your repository along 10 guidelines for maintainability:
 
 - Write Short Units of Code
 - Write Simple Units of Code
@@ -19,7 +19,7 @@ Within Better Code Hub you can read up on these guidelines. If you want more in-
 
 Better Code Hub analyses all the code that is in your repository. This might include all the external libraries that you use (CocoaPods are excluded by default (go heuristics!)).
 
-First do an initial analysis of your repository, so the "Analysis configuration" option becomes available. Than you can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
+First do an initial analysis of your repository, so the "Analysis configuration" option becomes available. Then you can exclude these files by making a **.bettercodehub.yml** in the root of your repository. The code that goes into this file, can be generated under "Analysis configuration" under "Settings" in Better Code Hub:
 
 ![BCH Config](yml.png)
 
@@ -34,6 +34,16 @@ This might look like:
 `languages:`
 
 `- java`
+
+## Activating automatic analysis
+
+By flipping the switch under configuration, everytime the code is pushed, an analysis is performed.
+
+![BCH Automatic](automatic.png)
+
+In your commit history you see the feedback from Better Code Hub:
+
+![BCH Commit](commit.png)
 
 ## Rank
 
@@ -57,12 +67,7 @@ Now it is your job to interpret this task list and make decisions on how to impr
 
 ## Deliver
 
-You must document your audit of the code quality. Save a report as **AUDIT.md** in the root of your GitHub repository. This must contain:
-
-- A screenshot of the rank as shown above (including the 10 icons).
-- A summary of the task list you created and order the tasks by highest impact.
-
-And add the Better Code Hub status badge to the bottom of your **README.MD** (so cool). This is what it might look like:
+Add the Better Code Hub status badge to the bottom of your **README.MD** (so cool). This is what it might look like:
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/jlnjnsn/QLSwift)](https://bettercodehub.com)
 
@@ -72,7 +77,7 @@ You can find the Markdown code under settings:
 
 ## Note
 
-A high Better Code Hub score does not automatically result in a high course grade. Your project is graded along more dimensions than code quality. Consult the rubric you have used during the code reviews and find the overlapping criterica with Better Code Hub.
+A high Better Code Hub score does not automatically result in a high course grade. Your project is graded along more dimensions than code quality.
 
 ## Help
 
