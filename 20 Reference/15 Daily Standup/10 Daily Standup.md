@@ -20,8 +20,8 @@ Every standup, you must provide a brief report on what has been discussed. It is
 
 In Week 1, use the following themes during your standup meetings:
 
-- Day 3: present your proposed technical design and feedback each other on what's missing
-- Day 4: show your prototype and for the first time, tell what you will be coding today
+- Day 3: present your proposal (show your proposal on GitHub) and feedback each other on what's missing, why it is a good concept or what could be done to make it better
+- Day 4: show your technical design and explain what you will have to research to get your app working
 
 ## Week 2
 
