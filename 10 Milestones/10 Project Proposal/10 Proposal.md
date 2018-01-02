@@ -51,6 +51,8 @@ Describe the things that you'll have to get in order.
 
 Before continuing, compare your solution to the [project requirements](/reference/requirements) one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
 
+Finally, make sure that your document is spell-checked, and that images are not too large or too small (your document will be read in a normal browser via GitHub).
+
 ## GitHub
 
 All documentation and code of this project must be hosted on GitHub and updated
