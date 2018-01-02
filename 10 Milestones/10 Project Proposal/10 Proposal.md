@@ -23,6 +23,8 @@ In total, keep the problem statement to 4 lines of text.
 
 ## Solution
 
+Describe your solution in full detail.
+
 - Summarize your idea in a single sentence, connecting it to the "gap" that you describe.
 
 - Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions, and include concrete examples of data. Your sketches do not have to be professional-looking, but they have to be complete and neat!
