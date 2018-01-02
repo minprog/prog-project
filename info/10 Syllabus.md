@@ -71,7 +71,7 @@ During the project, you will use a single public GitHub repository to keep your 
 
 *Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing.
 
-*Process* --- To what extent have you followed a rigorous design and development process and have you worked with others to enhance your and their learning? The process will be graded on evaluation of rigor as evidenced in your process book, and on the cleanlyness of your repository and commit history.
+*Process* --- To what extent have you followed a rigorous design and development process and have you worked with others to enhance your and their learning? The process will be graded on evaluation of rigor as evidenced in your process book, and on the cleanlyness of your repository and commit history (commit every day!).
 
 *Final report* --- To what extent have you clearly documented your project, the design, and your understanding of the chosen topic? The report will be graded on axes of clarity and thoroughness.
 
