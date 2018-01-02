@@ -42,7 +42,7 @@ Functional requirements:
 
 Implementation details:
 
-- Your visualization must be published using GitHub pages and fully works in at least one current generation browser (Chrome or Firefox are recommended).
+- Your visualization must be published using GitHub Pages and fully works in at least one current generation browser (Chrome or Firefox are recommended).
 
 - Your visualization must be implemented in D3 (use of additional libraries must be approved by an instructor in the first week).
 
