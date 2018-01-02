@@ -65,10 +65,21 @@ Your application will be developed with help of the following milestones:
 
 You are required to attend every project day (20 days) between 10:00 and 16:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
-- the first Tuesday (because of the first deadline)
+- the first Monday (because of the first deadline)
 - every Friday presentation session for your assigned group
 
 In cases of emergency, please inform the instructors immediately to make arrangements on finishing the course. In many cases, this will entail finishing the course in a later semester.
+
+## Feedback
+
+Some types of feedback are pre-arranged in this course:
+
+- in the first week, you should receive written approval for your project proposal and design document (this approval is required to continue the course)
+- you may get a few "issues" entered for your GitHub project by the staff, usually regarding problema with your repository (make sure to resolve these issues immediately)
+- during the Friday presentations, you'll get feedback from assistants and fellow students on the direction that you're taking with your project (take this very seriously)
+
+It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer.
+
 
 ## Assessment
 
