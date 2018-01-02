@@ -2,6 +2,8 @@
 
 Here we list the requirements that all submitted projects should accommodate. *Functional requirements* define the scope of the projects, and *implementation details* make sure all projects can be graded in the same way, and ensure usefulness to a broad audience.
 
+## Mobile app
+
 Functional requirements:
 
 - You are invited to create an app concept of your own choosing, as long as it allows an app of sufficient complexity to be created that doesn't resemble the projects you did in earlier courses (pending approval by the course's instructor).
