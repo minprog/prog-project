@@ -89,7 +89,7 @@ Failing to meet expectations as mentioned will generally result in a failing gra
 
 ## Deadlines and late submissions
 
-Extensions on projects, design documentation and set-up are not granted, except in cases of emergency. Technical difficulties do not constitute emergencies.
+Extensions on the project proposal, design documentation and repository set-up are not granted, except in cases of emergency. Technical difficulties do not constitute emergencies.
 
 Projects submitted *n* hours late may be penalized by 10% for *n* in (0, 24], by 25% for *n* in (24, 48], by 50% for *n* in (48, 72], and by 100% for *n* greater than 72. Lateness will be determined by submissions' timestamps.
 
