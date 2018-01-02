@@ -12,6 +12,8 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Problem or "gap"
 
+*"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word."*---Karl Ulrich, Design (2011).
+
 Write a statement about the gap that your application will fill. This gap has to be clearly described and very specific. We see two possibilities:
 
 - There is a clearly defined problem that some people have, which an app or visualization can solve particularly well.
@@ -36,6 +38,8 @@ Describe your solution in full detail.
 - Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
 ## Prerequisites
+
+Describe the things that you'll have to get in order.
 
 - List the **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found.
 
