@@ -12,15 +12,14 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Problem or "gap"
 
-Write a statement of the gap that your application will fill. It has to be clearly described and very specific. You can do that in several ways:
+Write a statement about the gap that your application will fill. This gap has to be clearly described and very specific. We see two possibilities:
 
-- There is a problem that some people have, which an app or visualization can solve particularly well.
-
+- There is a clearly defined problem that some people have, which an app or visualization can solve particularly well.
 - There is a lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
 
-- There is some target audience who have specific interests that are relevent to your project.
+In both cases, you should be able to define a target audience who have specific interests that are relevent to your project. Include that, too.
 
-In all cases, keep it to 4-5 lines.
+In total, keep the problem statement to 4 lines of text.
 
 ## Solution
 
