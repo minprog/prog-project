@@ -8,7 +8,7 @@ You and others can use this document to estimate the effort required to implemen
 - the envisioned app/viz doesn't do enough
 - the purpose of the app/viz is not well-defined (too vague)
 
-By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks!
+By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks! Below, we list all required aspects of your proposal document.
 
 ## Problem
 
@@ -18,7 +18,7 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Solution
 
-- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately.
+- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions. Your sketches do not have to be professional-looking, but they have to be complete and neat!
 
     ![](screens-proposal.png)
 
@@ -28,13 +28,13 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Prerequisites
 
-- List the data sources that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources may be found.
+- List the **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found.
 
-- List the external components (libraries etc.) that you need to make certain features possible (name and URL link).
+- List the **external components** (libraries like `d3-tip` or `SQLite`) that you need to implement certain features. Include the names, and if the component is not standard, include a link to its website.
 
-- Include a review of similar mobile apps or related visualizations, in terms of features and technical aspects: what do they offer? how have they implemented it? can you do it in the same way?.
+- Include a review of **similar** mobile apps or related visualizations, in terms of features and technical aspects: what do they do? how have they implemented it? can you do it in the same way?
 
-- List the hardest parts of creating your application: think of technical problems or limitations that could arise during development and what possibilities you have to overcome these.
+- Identify the **hardest parts** of implementing your application: think of technical problems or limitations that could arise during development and what possibilities you have to overcome these.
 
 ## Sanity check
 
@@ -72,4 +72,4 @@ Don't commit any code yet! Your repository should be clean for us to read, conta
 
 The next step in your project is creating a design document. There, you'll describe how your project will be created according to the rules of the application framework that you're using.
 
-Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where you will get feedback on whether your project is acceptable as it is.
+Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
