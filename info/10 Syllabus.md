@@ -32,13 +32,20 @@ In this course, you will create a single software project, based on the platform
 
 Your application will be developed with help of the following milestones:
 
-- First Monday: proposal
-- First Wednesday: design document
-- First Friday: prototype
-- Second Friday: incomplete alpha version
-- Third Friday: complete beta version
-- Fourth Thursday: final version and report
-- Fourth Friday: product demonstration
+| Week 1                        | Deadline             |  
+| ----------------------------- | -------------------- |  
+| Project proposal              | Monday, 17:59        |  
+| Design document               | Wednesday, 17:59     |  
+| First prototype               | Friday, 8:59         |  
+| **Week 2**                    | **Deadline**         |  
+| Incomplete alpha version      | Friday, 8:59         |  
+| **Week 3**                    | **Deadline**         |  
+| Feature-complete beta version | Friday, 8:59         |  
+| **Week 4**                    | **Deadline**         |  
+| Final code                    | Thursday, 17:59      |  
+| Final report                  | Thursday, 17:59      |  
+| Product video                 | Friday,  11:59       |  
+| Public presentations          | Friday, 13:00--17:00 |  
 
 ## Activities
 
