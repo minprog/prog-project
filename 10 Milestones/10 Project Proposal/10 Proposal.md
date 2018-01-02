@@ -12,7 +12,7 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Problem statement
 
-Write[^1] a statement about the problem that your finished product will solve. The gap has to be clearly described and very specific. We see two possibilities:
+Write a statement about the problem that your finished product will solve. The problem[^1] has to be clearly described and very specific. We see two possibilities:
 
 - There is a clearly defined problem that a reasonably large group of people have, which an app or visualization can solve particularly well.
 - There is a widespread lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
