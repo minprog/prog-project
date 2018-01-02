@@ -12,7 +12,7 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Problem statement
 
-<blockquote>*"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word."*---Karl Ulrich, Design (2011).</blockquote>
+*"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word."*---Karl Ulrich, Design (2011).
 
 Write a statement about the problem that your finished product will solve. The gap has to be clearly described and very specific. We see two possibilities:
 
