@@ -31,7 +31,7 @@ Describe your solution in full detail.
 
     ![](screens-proposal.png)
 
-- Include a list of **main features** that will be available to users. Keep it brief.
+- Include a list of **main features** that will be available to users. All features should also be visible in the sketch. Keep it brief.
 
 - Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
