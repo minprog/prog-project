@@ -16,7 +16,7 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 In effect, problem definition is the creation by the designer of an explanation of why the user experiences a gap. This diagnosis can be thought of as an identification of user needs that are not being met in the current state and/or the recognition of criteria for a high-quality solution."*---Karl Ulrich, Design (2011).
 
-Write a statement about the problem that your finished product will solve. The gap has to be clearly described and very specific. We see two possibilities:
+Write[^1] a statement about the problem that your finished product will solve. The gap has to be clearly described and very specific. We see two possibilities:
 
 - There is a clearly defined problem that a reasonably large group of people have, which an app or visualization can solve particularly well.
 - There is a widespread lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
@@ -24,6 +24,8 @@ Write a statement about the problem that your finished product will solve. The g
 In both cases, you should be able to define a target audience who have specific interests that match your project. Include that, too.
 
 In total, keep the problem statement to four lines of text.
+
+[^1]: Explanation.
 
 ## Solution
 
