@@ -34,9 +34,9 @@ Functional requirements:
 
 - You are invited to work on the basis of one or more data sets that you haven't used in earlier courses, as long as these allow a visualization of sufficient complexity to be created (pending approval by the course's instructor).
 
-- The visualization should answer a clearly defined question, or help users answer those questions. The visualization has a story telling aspect.
+- The project should answer a clearly defined question, or help readers answer those questions, through a self-explanatory website. The website needs to tell a story.
 
-- The final product must implement at least 3 linked interactive visual components, as well as at least 2 other interactive components (e.g. table, dropdown, checkbox, etc.).
+- The final product must implement at least 3 linked interactive views showing different aspects of the data, as well as at least 2 other interactive components (e.g. table, dropdown, checkbox, etc.).
 
 - The final product embodies good visualization practices.
 
