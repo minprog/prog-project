@@ -24,7 +24,7 @@ Please send any question by e-mail to <help@mprog.nl>, but more importantly, ask
 
 ## Expectations
 
-In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses: iOS, Android or JS/D3. Your task is to deliver a fully functional and useful product at the end of the course. See [project requirements](/reference/requirements) for further details.
+In this course, you will create a single software project, based on the platform knowledge you acquired in previous courses: iOS, Android or D3.js. Your task is to deliver a fully functional and useful product at the end of the course. See [project requirements](/reference/requirements) for further details.
 
 > Note: the project cannot be done 1) on the basis of an existing codebase, 2) under external supervision and/or 3) in exchange for any compensation by third parties, at any time. It might, however, be possible to do such a project outside of the usual offerings of this course. Contact the course's instructor to discuss.
 
