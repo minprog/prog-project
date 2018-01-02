@@ -12,10 +12,6 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Problem statement
 
-*"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word.[...]
-
-In effect, problem definition is the creation by the designer of an explanation of why the user experiences a gap. This diagnosis can be thought of as an identification of user needs that are not being met in the current state and/or the recognition of criteria for a high-quality solution."*---Karl Ulrich, Design (2011).
-
 Write[^1] a statement about the problem that your finished product will solve. The gap has to be clearly described and very specific. We see two possibilities:
 
 - There is a clearly defined problem that a reasonably large group of people have, which an app or visualization can solve particularly well.
@@ -25,7 +21,7 @@ In both cases, you should be able to define a target audience who have specific 
 
 In total, keep the problem statement to four lines of text.
 
-[^1]: Explanation.
+[^1]: *"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word. [...] In effect, problem definition is the creation by the designer of an explanation of why the user experiences a gap. This diagnosis can be thought of as an identification of user needs that are not being met in the current state and/or the recognition of criteria for a high-quality solution."*---Karl Ulrich, Design (2011).
 
 ## Solution
 
