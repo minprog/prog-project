@@ -10,7 +10,7 @@ Functional requirements:
 
 - The app should embody a solution for a clearly defined human problem and a clearly defined target audience.
 
-- The app must implement at least 3 separate screens/activities/controllers and be based on a combination of at least 2 online JSON APIs or interesting libraries, any of which you have not used before.
+- The app must implement at the very least 3 separate screens/activities/controllers and be based on a combination of at least 2 online JSON APIs or interesting libraries, any of which you have not used before.
 
 - The product should not be dependent on a user entering lots of information or be an amalgam of several loosely coupled functions.
 
@@ -36,7 +36,7 @@ Functional requirements:
 
 - The project should answer a clearly defined question, or help readers answer those questions, through a self-explanatory website. The website needs to tell a story.
 
-- The final product must implement at least 3 linked interactive views showing different aspects of the data, as well as at least 2 other interactive components (e.g. table, dropdown, checkbox, etc.).
+- The final product must implement at the very least 3 linked interactive views showing different aspects of the data, as well as at least 2 other interactive components (e.g. table, dropdown, checkbox, etc.).
 
 - The final product embodies good visualization practices.
 

@@ -1,24 +1,32 @@
 # Project Proposal
 
-You'll spend the first <strong>day</strong> building a *proposal document*. This document should connect the functional design of your project (what does it do?) to a problem in the real world.
+You'll spend the first **day** building a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world.  Below, we list all required aspects of your proposal document.
 
 You and others can use this document to estimate the effort required to implement the project. Your project has a high risk of failure if:
 
-- the envisioned app/viz tries to do too much
-- the envisioned app/viz doesn't do enough
-- the purpose of the app/viz is not well-defined (too vague)
+- the envisioned product tries to do too much
+- the envisioned product doesn't do enough
+- the purpose of the product is not well-defined (too vague)
 
-By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks! Below, we list all required aspects of your proposal document.
+By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks!
 
-## Problem
+## Problem or "gap"
 
-- What **problem** will be solved? Keep it two 2-3 lines.
+Write a statement of the gap that your application will fill. It has to be clearly described and very specific. You can do that in several ways:
 
-- Who is a **typical member** of your target audience? What are their interests as relevant to your project?
+- There is a problem that some people have, which an app or visualization can solve particularly well.
+
+- There is a lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
+
+- There is some target audience who have specific interests that are relevent to your project.
+
+In all cases, keep it to 4-5 lines.
 
 ## Solution
 
-- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions. Your sketches do not have to be professional-looking, but they have to be complete and neat!
+- Summarize your idea in a single sentence, connecting it to the "gap" that you describe.
+
+- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions, and include concrete examples of data. Your sketches do not have to be professional-looking, but they have to be complete and neat!
 
     ![](screens-proposal.png)
 
@@ -38,7 +46,7 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Sanity check
 
-Before continuing, compare your solution to the [project requirements](/reference/requirements) one last time.
+Before continuing, compare your solution to the [project requirements](/reference/requirements) one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
 
 ## GitHub
 
