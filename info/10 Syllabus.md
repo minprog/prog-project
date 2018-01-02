@@ -75,7 +75,7 @@ In cases of emergency, please inform the instructors immediately to make arrange
 Some types of feedback are pre-arranged in this course:
 
 - in the first week, you should receive written approval for your project proposal and design document (this approval is required to continue the course)
-- you may get a few "issues" entered for your GitHub project by the staff, usually regarding problema with your repository (make sure to resolve these issues immediately)
+- you may get a few "issues" entered for your GitHub project by the staff, usually regarding problems with your repository (make sure to resolve these issues immediately)
 - during the Friday presentations, you'll get feedback from assistants and fellow students on the direction that you're taking with your project (take this very seriously)
 
 It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer.
