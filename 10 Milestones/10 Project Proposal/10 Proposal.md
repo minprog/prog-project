@@ -10,18 +10,18 @@ You and others can use this document to estimate the effort required to implemen
 
 By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks!
 
-## Problem or "gap"
+## Problem statement
 
-*"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word."*---Karl Ulrich, Design (2011).
+<blockquote>*"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word."*---Karl Ulrich, Design (2011).</blockquote>
 
-Write a statement about the gap that your application will fill. This gap has to be clearly described and very specific. We see two possibilities:
+Write a statement about the problem that your finished product will solve. The gap has to be clearly described and very specific. We see two possibilities:
 
 - There is a clearly defined problem that some people have, which an app or visualization can solve particularly well.
 - There is a lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
 
-In both cases, you should be able to define a target audience who have specific interests that are relevant to your project. Include that, too.
+In both cases, you should be able to define a target audience who have specific interests that match your project. Include that, too.
 
-In total, keep the problem statement to 4 lines of text.
+In total, keep the problem statement to four lines of text.
 
 ## Solution
 
