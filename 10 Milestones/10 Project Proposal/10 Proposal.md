@@ -17,7 +17,7 @@ Write a statement about the gap that your application will fill. This gap has to
 - There is a clearly defined problem that some people have, which an app or visualization can solve particularly well.
 - There is a lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
 
-In both cases, you should be able to define a target audience who have specific interests that are relevent to your project. Include that, too.
+In both cases, you should be able to define a target audience who have specific interests that are relevant to your project. Include that, too.
 
 In total, keep the problem statement to 4 lines of text.
 
