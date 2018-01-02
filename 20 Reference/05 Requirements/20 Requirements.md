@@ -10,7 +10,7 @@ Functional requirements:
 
 - The app should embody a solution for a clearly defined human problem and a clearly defined target audience.
 
-- The app must implement at least 3 separate screens/activities/controllers and be based on a combination of at least 2 online JSON APIs (you have not used before) or interesting libraries.
+- The app must implement at least 3 separate screens/activities/controllers and be based on a combination of at least 2 online JSON APIs or interesting libraries, any of which you have not used before.
 
 - The product should not be dependent on a user entering lots of information or be an amalgam of several loosely coupled functions.
 
