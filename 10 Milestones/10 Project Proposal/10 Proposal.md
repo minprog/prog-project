@@ -35,12 +35,16 @@ Describe your solution in full detail.
 
 ![](screens-proposal.png)
 
+Example sketch for a mobile app
+
 </a>
 </div>
 <div class="col-xs-6 col-md-3">
 <a href="#" class="thumbnail">
 
 ![](sketch.jpg)
+
+Example sketch for a data visualization
 
 </a>
 </div>
