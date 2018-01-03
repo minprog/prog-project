@@ -30,16 +30,16 @@ Describe your solution in full detail.
 - Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions, and include concrete examples of data. Your sketches do not have to be professional-looking, but they have to be complete and neat!
 
 <div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-        <img src="screens-proposal.png">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-        <img src="sketch.jpg">
-    </a>
-  </div>
+<div class="col-xs-6 col-md-3">
+<a href="#" class="thumbnail">
+<img src="screens-proposal.png">
+</a>
+</div>
+<div class="col-xs-6 col-md-3">
+<a href="#" class="thumbnail">
+<img src="sketch.jpg">
+</a>
+</div>
 </div>
 
 - Include a list of **main features** that will be available to users. All features should also be visible in the sketch. Keep it brief.
