@@ -32,13 +32,16 @@ Describe your solution in full detail.
 <div class="row">
 <div class="col-xs-6 col-md-3">
 <a href="#" class="thumbnail">
-<img src="screens-proposal.png">
+
 ![](screens-proposal.png)
+
 </a>
 </div>
 <div class="col-xs-6 col-md-3">
 <a href="#" class="thumbnail">
-<img src="sketch.jpg">
+
+![](sketch.jpg)
+
 </a>
 </div>
 </div>
