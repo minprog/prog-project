@@ -59,7 +59,7 @@ Your application will be developed with help of the following milestones:
 
 *Product video* --- Toward the end of the project, you'll make a product demo video, demonstrating all important interactions that a typical user may have with it. The video will be used for assessing the final state of your project.
 
-*Exhibition* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff. This exhibition will take place on Friday 30 June, in the afternoon.
+*Exhibition* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff.
 
 ## Attendance
 
