@@ -8,8 +8,8 @@ To start your project, you should create a new empty Github repository. Your pro
 
 If needed, refer to the documentation:
 
-- [Markdown](/reference/markdown)
 - [Github](/reference/github)
+- [Markdown](/reference/markdown)
 
 ## Goal of the document
 
