@@ -1,20 +1,30 @@
-# Repository Setup
+# GitHub
 
-While working on your problem definition, you can start creating your development environment. If
-you have not done so already, you should setup **git** to share your code with the teaching staff on
-a daily basis.
+All documentation and code of this project must be hosted on GitHub and updated
+daily, in order for the staff to be able to monitor your progress. Please note
+that the repository must be public!
 
-> You should put all of your code in a subfolder in your GitHub repository, separate from the **README.md** etc.
+## Learning Git
 
-## Creating a project inside your existing repository
+Are you new to Git? Best to head over to [Code School](https://www.codeschool.com/courses/try-git) and do their Git course immediately!
 
-Your repository is required to be neat and tidy througout the course. It will contain various
-documents but also the code of your project. To make sure the repository does indeed stay tidy,
-follow these instructions.
+## Creating a new repository
 
-For *Android Studio*:
+1. Go to <https://github.com/new> and create a new code repository. Check the box to initialize the repository with a readme document:
 
-- make sure you have created your repository as per the instructions
+   ![Check Initialize this repository with a README](readme.png)
+
+2. Clone the repository to your computer/IDE using **git**.
+
+## Adding pictures
+
+You will need to include some sketches into your proposal. Put these images in a folder called **doc** inside your repository. Use exactly that name, for standards' sake! To use pictures from the `doc` folder in a Markdown document, use the following syntax:
+
+    ![](doc/image.png)
+
+## Adding an Android Studio project
+
+- make sure you have created your repository as per the instructions above
 - make sure Android Studio is fully up-to-date
 - install and start Android Studio
 - close any open projects
@@ -27,9 +37,9 @@ For *Android Studio*:
 - finally, choose *Add Root* in this popup:
   ![](android-add.png)
 
-For *Xcode*:
+## Adding an Xcode project
 
-- make sure you have created your repository as per the instructions
+- make sure you have created your repository as per the instructions above
 - make sure Xcode is fully up-to-date
 - install and start Xcode
 - close any open projects
@@ -42,11 +52,9 @@ For *Xcode*:
 
 ![embed](https://player.vimeo.com/video/161756276)
 
-For a *D3 visualization* project:
+## Adding a D3-based project
 
 - create a folder inside your repository that is named after your project
 - create folders there for the kinds of source files you will have: **css** and **javascript** are likely candidates
 - if your application will be implemented in one or only a few **html** files, simply put these in the project folder
 - make sure there is a *main* html file that is called **index.html** with an empty `<body>` tag
-
-Upon following these steps succesfully, you should be able to commit and push the new project to your GitHub repository. Make sure you do this before continuing.

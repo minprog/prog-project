@@ -2,6 +2,17 @@
 
 You'll spend the first **day** building a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world.  Below, we list all required aspects of your proposal document.
 
+## Getting started
+
+To start your project, you should create a new empty Github repository. Your project proposal must be written in Markdown and be saved in the repository as `README.md`. This will make sure that the proposal is easily viewable for the staff.
+
+If needed, refer to the documentation:
+
+- [Markdown](/reference/markdown)
+- [Github](/reference/github)
+
+## Goal of the document
+
 You and others can use this document to estimate the effort required to implement the project. Your project has a high risk of failure if:
 
 - the envisioned product tries to do too much
@@ -64,33 +75,14 @@ Describe the things that you'll have to get in order.
 
 Before continuing, compare your solution to the [project requirements](/reference/requirements) one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
 
+Also, the proposal document should be well-written and clearly formatted. Do not forget to include a
+title, your name, and a paragraph summary of the application goals at the top.
+
 Finally, make sure that your document is spell-checked, and that images are not too large or too small (your document will be read in a normal browser via GitHub).
 
-## GitHub
+## Submitting
 
-All documentation and code of this project must be hosted on GitHub and updated
-daily, in order for the staff to be able to monitor your progress. Please note
-that the repository must be public!
-
-To create such a document and get your project started, complete the following
-steps:
-
-1. Go to <https://github.com/new> and create a new code repository. Check the box to initialize the repository with a readme document:
-
-   ![Check Initialize this repository with a README](readme.png)
-
-2. Clone the repository to your computer using **git**. Don't know how? Head to the [reference](/reference/git)!
-
-3. Edit the plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
-
-   The proposal document should be well-written and clearly formatted. Do not forget to include a
-   title, your name, and a paragraph summary of the application goals at the top.
-
-4. As you will need to include some sketches into your proposal, put these images in a **doc** folder inside your repository. (Use exactly that name, for standards' sake!)
-
-5. Discuss the contents of your with fellow students and the teaching crew *before* handing it in!
-
-6. Now, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
+After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
 
 Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name), pictures in the **doc** folder, and nothing else.
 
@@ -101,4 +93,3 @@ The next step in your project is creating a design document. There, you'll descr
 Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
 
 [^1]: *"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word. [...] In effect, problem definition is the creation by the designer of an explanation of why the user experiences a gap. This diagnosis can be thought of as an identification of user needs that are not being met in the current state and/or the recognition of criteria for a high-quality solution."*---Karl Ulrich, Design (2011).
-
