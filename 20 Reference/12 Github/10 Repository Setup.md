@@ -6,7 +6,7 @@ that the repository must be public!
 
 ## Learning Git
 
-Are you new to Git? Best to head over to [Code School](https://www.codeschool.com/courses/try-git) and do their Git course immediately!
+Are you new to Git? Best to head over to [Code School](https://www.codeschool.com/courses/try-git) and do their Git course immediately! For reference, try the [Simple Guide](http://rogerdudler.github.io/git-guide/).
 
 ## Creating a new repository
 
