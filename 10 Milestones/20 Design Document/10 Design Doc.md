@@ -17,6 +17,8 @@ prevent you from finishing the project.
 
 ## Design doc for data visualizations
 
+For this deadline, you must prove that you have access to the data in a reasonable format!
+
 Some parts that you should describe here:
 
 - a list of data sources if you will get data from an external source, including information on how your are going to filter and transform the data for your project
@@ -27,7 +29,6 @@ Some parts that you should describe here:
 
 - a list of APIs or D3 plugins that you will be using to provide
   functionality in your app
-
 
 
 ## Design doc for mobile apps
