@@ -57,4 +57,4 @@ You will need to include some sketches into your proposal. Put these images in a
 - create a folder inside your repository that is named after your project
 - create folders there for the kinds of source files you will have: **css** and **javascript** are likely candidates
 - if your application will be implemented in one or only a few **html** files, simply put these in the project folder
-- make sure there is a *main* html file that is called **index.html** with an empty `<body>` tag
+- make sure there is a *main* html file that is called **index.html**
