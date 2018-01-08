@@ -17,7 +17,7 @@ prevent you from finishing the project.
 
 ## Design doc for data visualizations
 
-For this deadline, you must prove that you have access to the data in a reasonable format!
+For this deadline, you must prove that you have access to the data in a usable format!
 
 Some parts that you should describe here:
 
