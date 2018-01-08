@@ -1,4 +1,6 @@
 grades:
+    proposal:
+        type: pass
     github:
         type: float
         subgrades:
