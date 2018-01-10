@@ -4,7 +4,7 @@ Each day, you will provide a progress update to your team. Such a meeting will o
 
 Standups are a practice that supports "agile" software development in teams. Generally speaking, this means iteratively developing an understanding of the problem being solved (e.g., what kind of system will really help this company?), while creating more and more refined solutions for that problem. In such a process, daily standup are an important factor in team communication. It is a time to summarize what has been done and to theorize what needs to be done, all so that teammates can help each other better understand the problem at hand.
 
-(Usually, agile methods are being used when teams work on the same problem. You, however, will be working on your own projects. This does not matter for daily standups.)
+(Usually, agile methods are being used when teams work on the same problem. You, however, will be working on your own projects. The idea remains the same: articulating your plans and getting feedback.)
 
 ## Every day
 
@@ -14,20 +14,19 @@ Be sure to hold this meeting every day at 10 o'clock! We want everyone to be awa
 
 ## Reporting back
 
-Every standup, you must provide a brief report on what has been discussed. It is fine if one of you types the report. The report must always include a fresh group photo!
+After every standup, you must provide a brief report on what has been discussed. It is fine if one of you types the report. The report must always include a fresh group photo!
 
 ## Week 1
 
 In Week 1, use the following themes during your standup meetings:
 
-- Day 3: present your proposal (show your proposal on GitHub) and feedback each other on what's missing, why it is a good concept or what could be done to make it better
-- Day 4: show your technical design and explain what you will have to research to get your app working
+- Day 4: show your technical design and explain what you still have to research to get your app working - other team members share their ideas on your problems
 
 ## Week 2
 
 - Day 1: present your plans for the week, what is realistic?
 - Day 2: show your progress from Monday
-- Day 3: take an hour or so to create a style guide with your team!
+- Day 3: take an hour or so to create a basic style guide with your team!
 - Day 4: finish the style guide, making sure that every has had the opportunity to prodide input
 
 ## Week 3 ##
