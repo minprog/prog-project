@@ -8,8 +8,7 @@ this early, you can focus on more fundamental problems in later weeks.
 ## Components
 
 To create a fairly complete prototype, make sure that all screens are there and
-navigation is working. Controls on screen should work and basic input and
-output of data should be functional.
+navigation is working.
 
 If you need data from an external source, you must have a working script to
 import the data from a file or a working connection to the live data source.
