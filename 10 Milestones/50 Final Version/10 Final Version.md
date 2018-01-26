@@ -2,9 +2,12 @@
 
 This week, you'll work towards submitting the final code of your project.
 
-> Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading. This means that every button should work; i.e., there are no loose end visible to the user.
+> Make sure that you have a *working* product to submit. If it does not work, it cannot be considered for grading. This means that every button should work; i.e., there are no loose ends visible to the user.
 
 ## Changing the `README.md` and choosing a license for your work
+
+https://help.github.com/articles/adding-a-license-to-a-repository/
+
 
 Your GitHub repository should contain a complete **README.md** file that states the application name, a couple of screen shots (resized to appropriate width/height for readability), its purpose, your name and a copyright statement. The README should be easy to read.
 
@@ -28,7 +31,7 @@ You will need to submit your final code by *push*ing it to GitHub. Make sure you
 - the **README.md**
 - the license in *LICENSE*
 - the old **DESIGN.md** (unchanged from week 1)
-- the old **PROCESS.md** (unchanged from week 1)
+- the old **PROCESS.md**
 - a new **REPORT.md**
 - a **docs** folder for the images in your documents
 - a separate folder containing your project's code

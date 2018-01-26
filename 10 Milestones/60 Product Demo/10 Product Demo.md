@@ -1,39 +1,65 @@
-## Product demo on video
+# Product demo
 
-Part of the assessment of this course is making a video demonstrating your product's features. This needs to be in the form of a *screencast*, which combines a screen capture of you using your product with your voice explaining what you are doing and how the product works.
+To make sure that the course's staff doesn't miss any interesting feature of your product when grading, you will make a screencast demonstrating your product's features. A screencast is simply a recording of your computer or mobile screen, combined with audio of your voice, explaining how the product works.
 
-The recording of your demonstration will be used by the teachers and assistants to assess your final version. As soon as the course has ended, we will review all demos to see what functionality has been implemented and if there are no large problems.
+Keep in mind: the video does not have to be *perfect*! Most important is that the features of your product are clearly demonstrated.
 
-The video doesn't have to be perfect! Most important is that is shows how all features work.
+## Script
 
-The video will not be publicly distributed without your permission (we would like to show the nicest videos to new students, but we will ask you after this course is finished!).
+Before recording, make a script of what you would like to show. Keep in mind the following requirements:
 
-### Making an appointment
+* Start with an introduction of the goals of your project: who will use it, in what situation and what will they get out of it.
 
-The video team (Marijn Jansen and Mirja Lagerwaard) is going to help you record your demo. You will need to make an appointment to do this. Your options are:
+* Show how a user would go about using the product. Show the most common way of going through the application.
 
-- Wednesday (June 28th)
-- Thursday (June 29th)
-- Friday (June 30th, only in the morning)
+* Then, show other ways of navigating the application, special features, exceptions.
 
-Please fill in your first and last name. The calendar for making the appointment can be found at [Doodle](http://doodle.com/poll/pnbnzkreit2pmptc).
+* Always show all features: anything that's not in the video does not exist.
 
-Finally, add the appointment of the recording to your own calendar. Don't forget.
+Your demo may be narrated in either Dutch or English. Make sure your demonstration does not take longer than 7 minutes. PowerPoint or other tools are not allowed, just show the product. Here are two examples: a [data visualisation](https://www.youtube.com/watch?time_continue=13&v=zvaAuhy_0_Q) and a [mobile app](https://youtu.be/oBUHaiU5GAo).
 
-### Preparation
+## Tip
 
-Prepare the demonstration of your final version and practice **as often as possible**. The following points should be mentioned during your demonstration:
+If your application supports something like logins, entering the login info may take a bit too long. Consider hard-coding some username and password on the login screen, so you can simply press a button to login.
 
-* Make sure you introduce your project briefly at the start of the demonstration (showing the default screen of your product).
-* Give a demonstration of each and every feature of the final version.
-* Don't forget to show all features.
+## Recording
 
-Your demo may be narrated in **Dutch** or **English**. Make sure your demonstration **does not take longer than 7 minutes**. PowerPoint or other tools are not allowed, just show the product.
+You can use any tool you'd like if you already know how to record screen casts. Don't overdo it, but do make sure your voice is audible and only the relevant parts of the screen are recorded.
 
-### Be on time!
+### Mac
 
-... otherwise we will not be able to help you to record your demonstration.
+* Open Quicktime Player.
 
-### The recording
+* Choose File > New Screen Recording.
 
-The location of the recording is **@SP A1.12**. Bring your **own equipment** (laptop, phone, etc.) so you will be able to give your demonstration, including charger(s) and cables etc. If the door of A1.12 is closed you can take a seat on one of the chairs outside. If it is your turn to record your demonstration we will come out to get you. The recording (including installing the equipment) will take about 15 minutes in total.
+* Using the dropdown arrow next to the "record" button, make sure the correct microphone is selected. Leave the "Show Mouse Clicks" option selected.
+
+* Press "record". You can then drag to select the relevant part of your screen.
+
+* To stop recording, use the menu bar in the upper-right corner of your screen. After this, you can use Quicktime's editing tools to cut out some parts of your recording.
+
+### Windows
+
+* Download Google Chrome if you do not have it already.
+
+* Click on the icon with the three vertical dots in the right upper corner. Then choose More tools > Extensions > Get more extensions.
+
+* Using the search bar find "Screen Castify" > Add to Chrome.
+
+* Click on the Screen Castify icon, then choose Start recording desktop > Share. From now on everything on your screen will be recorded.
+
+* To end the recording, click the Screen Castify logo and choose Stop.
+
+### Android
+
+Several screen recorder applications are available for your mobile phone through the Play Store. We have tested "DU recorder", which works fine.
+
+### iOS
+
+If you have iOS 11, a screen recorder is included with the system. You can access it from the control center, but you will have to enable it in the Settings app. [See how.](https://9to5mac.com/2017/06/08/how-to-enable-screen-recording-ios-11-without-a-computer/)
+
+If you don't have iOS 11, you can easily record a screencast using Quicktime Player on your Mac. Connect your phone to your computer using a cable, create a New Movie Recording in Quicktime. In the dropdown menu next to the "record" button, choose your phone as the video source.
+
+## Uploading
+
+After recording your video, upload it to Youtube or another video streaming service.  Include a link to your video in the `README.md` on GitHub.
