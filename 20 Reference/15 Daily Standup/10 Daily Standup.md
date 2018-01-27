@@ -40,5 +40,5 @@ In Week 1, use the following themes during your standup meetings:
 
 - Day 1: present your plans for the week, what is realistic?
 - Day 2: show your progress from Monday
-- Day 3: everyone shows their code, browsing around; others quickly provide feedback on the quality of the code (var. names, method names, comments, etc)
-- Day 4: everyone provides an update and makes a decision of what to submit and what to delete (if needed). others help!
+- Day 3: everyone provides an update and makes a decision of what to submit and what to delete (if needed). others help!
+- Day 4: everyone shows their repository and others do a final check for problems
