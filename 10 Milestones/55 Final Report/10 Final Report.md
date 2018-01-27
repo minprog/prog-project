@@ -1,4 +1,4 @@
-## Create the final report
+# Final report
 
 Create a report (**REPORT.md**), based on your design document, containing important decisions that you've made, e.g. where you changed your mind during the past weeks. This is how you show the reviewer that you actually understand what you have done.
 

@@ -1,4 +1,4 @@
-## Delivering the finished product
+# Final version
 
 This week, you'll work towards submitting the final code of your project.
 
@@ -23,10 +23,9 @@ The **README.md** should also acknowledge sources of external code, images and o
 
 Also note that these materials have their own respective licenses. You should at the very least note this fact (again, in the **README.md**). Make sure you also check the licenses to see if you should make a special statement about the source of the materials.
 
+## Submitting
 
-### Submitting
-
-You will need to submit your final code by *push*ing it to GitHub. Make sure you are not missing anything!
+Submit your final code by *push*ing it to GitHub. Make sure you are not missing anything!
 
 - the **README.md**
 - the license in *LICENSE*
