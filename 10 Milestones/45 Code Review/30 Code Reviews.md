@@ -1,12 +1,12 @@
-## Code reviews
+## Code review
 
-You'll team up with another student and perform code reviews on each other's code. Make sure your repository is cleaned up and ready before Wednesday at 12 (noon), and then do the code reviews.
+You'll team up with another student and perform a code review on each other's repository. Make sure your repository is cleaned up and ready for review before Tuesday at 12 (noon), and then do the code reviews.
 
-1. Pick a partner. You will perform three code reviews (one each week), each with a different partner.
+1. Pick a partner.
 
 2. Open your project on your computer and put your partner in front of it. Your partner should navigate the code, not you!
 
-3. Your partner will now comment (aloud!) on your code. You will listen. If there are questions, do answer them. If there are questions, this may be where your project could be better documented, or where your code could be more clear!
+3. Your partner will now comment (aloud!) on your code. You will listen. If there are questions, answer them. Make note of those questions: this may be where your project could be better documented, or where your code could be more clear!
 
 The reviewer must pay attention to:
 
@@ -16,4 +16,4 @@ The reviewer must pay attention to:
 
 Doing this will help you and your partner learn, and obtain higher grades, depending on how well you perform the review!
 
-Note: your will not actually *run* the code during the code review! That is not what this is about.
+Note: your will not actually *run* the code during the code review! That is not what code review is about.
