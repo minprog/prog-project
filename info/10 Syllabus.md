@@ -85,9 +85,9 @@ It is your own responsibility in this course to make sure you get the feedback y
 
 During the project, you will use a single public GitHub repository to keep your "work product" and work towards the final version of your project. The repository will ultimately contain your product, final report, process book, and any materials needed to assess your project results. Your grade for this course will be determined on the basis of five criteria:
 
-*Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness, coherence and interaction design.
+*Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness and coherence.
 
-*Implementation* --- To what extent is your project consistent with the general project requirements and is it free of bugs? The implementation will be graded on functional requirements and on buggyness by rigorous stress testing.
+*Interaction design* --- To what extent is your project consistent with good practices as described by the platform vendor as well as what you've learned elsewhere in the course? Grading will be done on things like pleasant and consistent design, ease of use and prevention of errors.
 
 *Process* --- To what extent have you followed a rigorous design and development process and have you worked with others to enhance your and their learning? The process will be graded on evaluation of rigor as evidenced in your process book, and on the cleanlyness of your repository and commit history (commit every day!).
 
