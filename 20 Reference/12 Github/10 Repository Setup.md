@@ -18,10 +18,10 @@ Are you new to Git? Best to head over to [Code School](https://www.codeschool.co
 
 ## Adding pictures
 
-You will need to include some sketches into your proposal. Put these images in a folder called **doc** inside your repository. Use exactly that name, for standards' sake! To use pictures from the `doc` folder in a Markdown document, use the following syntax:
+You will need to include some sketches into your proposal. Put these images in a folder called **doc** inside your repository. Use exactly that name, for standards' sake! To use pictures from the `doc` folder in a Markdown document, use the following syntax. Make sure that you provide an alternative (descriptive!) text inside the square brackets as well, as this will greatly help visually impaired people in understanding the contents of your proposal, as well as guaranteeing that the content of the image is clear, even if it fails to load. 
 
-    ![](doc/image.png)
-
+    ![Alternative Text](doc/image.png)
+    
 ## Adding an Android Studio project
 
 - make sure you have created your repository as per the instructions above
