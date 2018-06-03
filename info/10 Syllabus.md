@@ -1,6 +1,6 @@
 # Programmeerproject<br><small>Studiewijzer</small>
 
-*Winter 2018*
+*Summer 2018*
 
 This project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go out in the world and start creating your own software.
 
@@ -8,10 +8,10 @@ This project is the final course of the programming minor, and for the first tim
 
 *Data Processing*  
 Gosia Migut  
-Jan Jetze Beitler  
-Sascha van Essen  
+Sascha van Essen
+Nigel van Herwijnen
 Tim Meijer  
-Laura Ruis
+Eline rietdijk
 
 *App Studio*  
 Martijn Stegeman  
@@ -83,7 +83,7 @@ It is your own responsibility in this course to make sure you get the feedback y
 
 ## Assessment
 
-During the project, you will use a single public GitHub repository to keep your "work product" and work towards the final version of your project. The repository will ultimately contain your product, final report, process book, and any materials needed to assess your project results. Your grade for this course will be determined on the basis of five criteria:
+During the project, you will use a single public GitHub repository to keep your "work product" and work towards the final version of your project. The repository will ultimately contain your product, final report, process book, and any materials needed to assess your project results. Your grade for this course will be determined on the basis of equally weigthed five criteria:
 
 *Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The solution will be graded primarily on usefulness and coherence.
 
