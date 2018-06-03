@@ -8,10 +8,10 @@ This project is the final course of the programming minor, and for the first tim
 
 *Data Processing*  
 Gosia Migut  
-Sascha van Essen
-Nigel van Herwijnen
+Sascha van Essen  
+Nigel van Herwijnen   
 Tim Meijer  
-Eline rietdijk
+Eline rietdijk   
 
 *App Studio*  
 Martijn Stegeman  
