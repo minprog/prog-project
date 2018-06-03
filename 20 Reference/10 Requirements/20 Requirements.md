@@ -6,7 +6,7 @@ Here we list the requirements that all submitted projects should accommodate. *F
 
 Functional requirements:
 
-- The app should embody a solution for a clearly defined human problem and a clearly defined target audience.
+- The app should embody a solution for a clearly defined human problem and a clearly defined target audience. The solution should be reasonably original with regards to apps that are available on phones these days.
 
 - You are invited to create an app concept of your own choosing, as long as it allows an app of sufficient complexity to be created that doesn't resemble the projects you did in earlier courses (pending approval by the course's instructor).
 
@@ -32,11 +32,13 @@ Implementation details:
 
 Functional requirements:
 
-- The project should answer a clearly defined question, or help readers answer those questions, through a self-explanatory website. The website needs to tell a story.
+- The project should answer a clearly defined question, or help readers answer those questions, through a self-explanatory website. The website needs to tell a story. The story and website should be reasonably original with regards to interactive visualizations that have previously been published.
 
 - You are invited to work on the basis of one or more data sets that you haven't used in earlier courses, as long as these allow a visualization of sufficient complexity to be created (pending approval by the course's instructor).
 
 - The final product must implement at the very least 3 linked interactive views showing different aspects of the data, as well as at least 2 other interactive components (e.g. table, dropdown, checkbox, etc.).
+
+- At least one view should comprise a visualization that you have not implemented in earlier courses. At least one interactive component has to be connected to data (e.g., resulting in variable or dataset change).
 
 - The final product embodies good visualization practices.
 
