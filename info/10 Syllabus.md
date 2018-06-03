@@ -6,8 +6,16 @@ This project is the final course of the programming minor, and for the first tim
 
 ## Staff
 
-Gosia Migut  
-Martijn Stegeman
+Gosia Migut (teacher)  
+Martijn Stegeman (backup teacher)  
+Sascha van Essen  
+Nigel van Herwijnen  
+Tim Meijer  
+Eline rietdijk  
+Julia Anten  
+Emma Hokken  
+Marijn Jansen  
+Renske Talsma
 
 Please send any question by e-mail to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
 

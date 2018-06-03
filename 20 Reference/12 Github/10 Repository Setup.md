@@ -16,44 +16,48 @@ Are you new to Git? Best to head over to [Code School](https://www.codeschool.co
 
 2. Clone the repository to your computer/IDE using **git**.
 
+3. You can now make changes to the readme from your computer/IDE and later add the project folder containing your code as well. 
+
+
 ## Adding pictures
 
-You will need to include some sketches into your proposal. Put these images in a folder called **doc** inside your repository. Use exactly that name, for standards' sake! To use pictures from the `doc` folder in a Markdown document, use the following syntax:
+You will need to include some sketches into your proposal. Put these images in a folder called **doc** inside your repository. Use exactly that name, for standards' sake! To use pictures from the `doc` folder in a Markdown document, use the following syntax. Make sure that you provide an alternative (descriptive!) text inside the square brackets as well, as this will greatly help visually impaired people in understanding the contents of your proposal, as well as guarantee that the content of the image is clear, even if it fails to load. 
 
-    ![](doc/image.png)
+    ![Alternative Text](doc/image.png)
 
 ## Adding an Android Studio project
 
-- make sure you have created your repository as per the instructions above
+- make sure you have created and cloned your repository as per the instructions above
 - make sure Android Studio is fully up-to-date
-- install and start Android Studio
+- start Android Studio
 - close any open projects
 - create a new project
   ![](android-start.png)
 - choose an appropriate project name (you can't change this later!)
 - give your project a *domain* in inverse order: nl.mprog (or anything appropriate)
-- then, as your *project location* choose the folder that is the root of your repository
+- then, as your *project location* choose the folder that is the root of the repository you created earlier
 - now, choose an appropriate type of project and create it
 - finally, choose *Add Root* in this popup:
   ![](android-add.png)
 
 ## Adding an Xcode project
 
-- make sure you have created your repository as per the instructions above
+- make sure you have created and cloned your repository as per the instructions above
 - make sure Xcode is fully up-to-date
-- install and start Xcode
+- start Xcode
 - close any open projects
 - create a "New Xcode Project"
 - choose an appropriate template for your project
 - choose an appropriate product name (you can't change this later!)
 - give your project an *organization identifier* in inverse order: nl.mprog (or anything appropriate)
 - choose Swift as your language and select *Next*
-- then, as your project location choose the folder that is the root of your repository
+- then, as your *project location* choose the folder that is the root of the repository you created earlier
 
 ![embed](https://player.vimeo.com/video/161756276)
 
 ## Adding a D3-based project
 
+- make sure you have created and cloned your repository as per the instructions above
 - create a folder inside your repository that is named after your project
 - create folders there for the kinds of source files you will have: **css** and **javascript** are likely candidates
 - if your application will be implemented in one or only a few **html** files, simply put these in the project folder
