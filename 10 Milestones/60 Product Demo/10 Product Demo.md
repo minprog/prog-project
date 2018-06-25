@@ -1,6 +1,6 @@
 # Product demo
 
-To make sure that the course's staff doesn't miss any interesting feature of your product when grading, you will make a screencast demonstrating your product's features. A screencast is simply a recording of your computer or mobile screen, combined with audio of your voice, explaining how the product works.
+To make sure that the course's staff doesn't miss any interesting feature of your product when grading, you will make a screencast demonstrating your product's features in **maximum 3 minutes**. A screencast is simply a recording of your computer or mobile screen, combined with audio of your voice, explaining how the product works.
 
 Keep in mind: the video does not have to be *perfect*! Most important is that the features of your product are clearly demonstrated.
 
@@ -16,7 +16,7 @@ Before recording, make a script of what you would like to show. Keep in mind the
 
 * Always show all features: anything that's not in the video does not exist.
 
-Your demo may be narrated in either Dutch or English. Make sure your demonstration does not take longer than 7 minutes. PowerPoint or other tools are not allowed, just show the product. Here are two examples: a [data visualisation](https://www.youtube.com/watch?time_continue=13&v=zvaAuhy_0_Q) and a [mobile app](https://youtu.be/oBUHaiU5GAo).
+Your demo may be narrated in either Dutch or English. Make sure your demonstration does not take longer than 3 minutes. PowerPoint or other tools are not allowed, just show the product. Here are two examples: a [data visualisation](https://www.youtube.com/watch?time_continue=13&v=zvaAuhy_0_Q) and a [mobile app](https://youtu.be/oBUHaiU5GAo).
 
 ## Tip
 
