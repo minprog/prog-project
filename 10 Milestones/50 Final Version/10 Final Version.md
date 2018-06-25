@@ -29,6 +29,7 @@ Submit your final code by *push*ing it to GitHub. Make sure you are not missing 
 
 - the **README.md**
 - the license in *LICENSE*
+- the old **PROPOSAL.md** (unchanged from week 1)
 - the old **DESIGN.md** (unchanged from week 1)
 - the old **PROCESS.md**
 - a new **REPORT.md**
