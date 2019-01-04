@@ -27,15 +27,15 @@ Your application will be developed taking into account the following milestones:
 | ----------------------------- | -------------------- |  
 | Project proposal              | Monday, 14:59        |  
 | Design document               | Tuesday, 17:59       |  
-| First prototype               | Friday, 8:59         |  
+| First prototype               | Thursday, 17:59      |  
 | **Week 2**                    | **Deadline**         |  
-| Incomplete alpha version      | Friday, 8:59         |  
+| Incomplete alpha version      | Thursday, 17:59      |  
 | **Week 3**                    | **Deadline**         |  
-| Feature-complete beta version | Friday, 8:59         |  
+| Feature-complete beta version | Thursday, 17:59      |  
 | **Week 4**                    | **Deadline**         |  
 | Final code                    | Wednesday, 17:59     |  
-| Final report                  | Wednesday, 17:59     |  
-| Product video                 | Thursday,  11:59     |  
+| Final report                  | Thursday, 17:59      |  
+| Product video                 | Thursday, 17:59      |  
 | Exhibition                    | Friday, 13:00--17:00 |  
 
 
