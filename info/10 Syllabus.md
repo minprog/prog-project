@@ -7,9 +7,7 @@ This project is the final course of the programming minor, and for the first tim
 
 ## Staff
 
-Martijn Stegeman (instructor)
-
-Please send any question by e-mail to <help@mprog.nl>, but more importantly, ask questions during daily meetings!
+[Martijn Stegeman](mailto:help@mprog.nl) (instructor)
 
 
 ## Expectations
@@ -62,7 +60,7 @@ You are required to attend every project day (20 days) between 9:30 and 16:30. Y
 
 Your attendance will be noted as you "ask" a question through the website and subsequently discuss your design or a problem with a member of staff. Make sure you ask at least one question each day!
 
-In cases of emergency, please inform the instructors **immediately** to make arrangements on finishing the course. In many cases, this will entail finishing the course in a later semester.
+In cases of emergency, inform the instructor **immediately** via e-mail to make arrangements on finishing the course. In many cases, this will entail finishing the course in a later semester.
 
 
 ## Feedback
