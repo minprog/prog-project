@@ -1,5 +1,6 @@
 Apps (Winter):
     Week 1:
+        'Overview': '/overview/week-1'
         'Proposal [Monday]': '/milestones/project-proposal'
         'Design document [Tuesday]': '/milestones/design-document'
         'Prototype [Thursday]': '/milestones/prototype-version'
@@ -8,18 +9,22 @@ Apps (Winter):
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 2:
+        'Overview': '/overview/week-2'
+        'div1': '---'
         'Alpha version [Thursday]': '/milestones/alpha-version'
         'div2': '---'
         'Daily standups': '/reference/daily-standup'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 3:
+        'Overview': '/overview/week-3'
         'Create a beta version [Thursday]': '/milestones/beta-version'
         'div2': '---'
         'Daily standups': '/reference/daily-standup'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 4:
+        'Overview': '/overview/week-4'
         'Final product [Wednesday]': '/milestones/final-version'
         'Final report [Thursday]': '/milestones/final-report'
         'Product video [Thursday]': '/milestones/product-demo'
@@ -30,6 +35,7 @@ Apps (Winter):
         'GitHub issues': '/reference/issues'
 Data (Winter):
     Week 1:
+        'Overview': '/overview/week-1'
         'Proposal [Monday]': '/milestones/project-proposal'
         'Design document [Tuesday]': '/milestones/design-document'
         'Prototype [Thursday]': '/milestones/prototype-version'
@@ -38,18 +44,22 @@ Data (Winter):
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 2:
+        'Overview': '/overview/week-2'
+        'div1': '---'
         'Alpha version [Thursday]': '/milestones/alpha-version'
         'div2': '---'
         'Daily standups': '/reference/daily-standup'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 3:
+        'Overview': '/overview/week-3'
         'Create a beta version [Thursday]': '/milestones/beta-version'
         'div2': '---'
         'Daily standups': '/reference/daily-standup'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 4:
+        'Overview': '/overview/week-4'
         'Final product [Wednesday]': '/milestones/final-version'
         'Final report [Thursday]': '/milestones/final-report'
         'Product video [Thursday]': '/milestones/product-demo'
