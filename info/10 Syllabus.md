@@ -29,10 +29,10 @@ Your application will be developed taking into account the following milestones:
 | Design document               | Tuesday, 17:59       |  
 | First prototype               | Thursday, 17:59      |  
 | **Week 2**                    | **Deadline**         |  
-| Incomplete alpha version      | Thursday, 17:59      |  
+| Incomplete alpha version      | Friday, 17:59        |  
 | **Week 3**                    | **Deadline**         |  
-| Feature-complete beta version | Thursday, 17:59      |  
 | Hackathon 👾🎉💪❤️☃️             | Thursday             |  
+| Feature-complete beta version | Friday, 17:59        |  
 | **Week 4**                    | **Deadline**         |  
 | Final code                    | Wednesday, 17:59     |  
 | Final report                  | Thursday, 17:59      |  
@@ -73,7 +73,7 @@ Some types of feedback are pre-arranged in this course:
 - the daily standups include many different activities that allow you to receive feedback from your fellow students
 - you may get a few "issues" entered for your GitHub project by the staff, usually regarding problems with your repository; make sure to resolve these issues immediately
 
-It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents long before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer. If you can't find your instructor, send an e-mail.
+It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents long before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer. If you can't find your instructor, [make an appointment](https://calendly.com/stgm/student).
 
 
 ## Assessment
