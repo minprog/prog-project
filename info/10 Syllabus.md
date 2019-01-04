@@ -69,11 +69,12 @@ In cases of emergency, please inform the instructors **immediately** to make arr
 
 Some types of feedback are pre-arranged in this course:
 
+- you'll be assigned a mentor, who will discuss your project with you and one fellow student, once a week
 - in the first week, you should receive approval (via this website) for your project proposal and design document; this approval is required to continue the course
 - the daily standups include many different activities that allow you to receive feedback from your fellow students
 - you may get a few "issues" entered for your GitHub project by the staff, usually regarding problems with your repository; make sure to resolve these issues immediately
 
-It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents long before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer. If you can't find your instructor, [make an appointment](https://calendly.com/stgm/student).
+It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents long before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer. If you can't find your instructor, [make an appointment](https://calendly.com/stgm/project).
 
 
 ## Assessment
