@@ -32,6 +32,7 @@ Your application will be developed taking into account the following milestones:
 | Incomplete alpha version      | Thursday, 17:59      |  
 | **Week 3**                    | **Deadline**         |  
 | Feature-complete beta version | Thursday, 17:59      |  
+| Hackathon 👾🎉💪❤️☃️             | Thursday             |  
 | **Week 4**                    | **Deadline**         |  
 | Final code                    | Wednesday, 17:59     |  
 | Final report                  | Thursday, 17:59      |  
@@ -43,20 +44,18 @@ Your application will be developed taking into account the following milestones:
 
 As expected in a project course, you will spend most of your day designing and coding your product. In the afternoons, help will be available from the course's staff, who consult on design decisions and provide feedback on ideas or code.
 
-*Stand-up* --- From day 2, you will kick off every day with a stand-up meeting, discussing progress with about four teammates. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. Stand-ups may incidentally be visited by instructors.
+**Stand-up** --- From day 2, you will kick off every day with a stand-up meeting, discussing progress with about four teammates. Every group member highlights the work of the previous day, plans for today, and potential problems ahead. Stand-ups may incidentally be visited by instructors.
 
-*Friday presentations* --- You will also be part of a larger group for the weekly presentation on Friday where you will update your group on current progress.
+**Process book** --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. It contains your daily resume of design decisions and other considerations.
 
-*Process book* --- Together with your completed software project, you will hand in a process book that documents the development process as well as the finalized application. It contains your daily resume of design decisions and other considerations.
+**Product video** --- Toward the end of the project, you'll make a product demo video, demonstrating all important interactions that a typical user may have with it. The video will be used for assessing the final state of your project.
 
-*Product video* --- Toward the end of the project, you'll make a product demo video, demonstrating all important interactions that a typical user may have with it. The video will be used for assessing the final state of your project.
-
-*Exhibition* --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff.
+**Exhibition** --- The final part of this course is the exhibition, where you are expected to demo your finished project to other students, family, friends and the teaching staff.
 
 
 ## Attendance
 
-You are required to attend every project day (20 days) between 10:00 and 16:00. You are allowed to miss 10% of this time during the course, but you must in any case attend:
+You are required to attend every project day (20 days) between 9:30 and 16:30. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
 - the first Monday (because of the first deadline)
 - every Friday presentation session for your assigned group
@@ -70,11 +69,11 @@ In cases of emergency, please inform the instructors **immediately** to make arr
 
 Some types of feedback are pre-arranged in this course:
 
-- in the first week, you should receive written approval for your project proposal and design document (this approval is required to continue the course)
-- you may get a few "issues" entered for your GitHub project by the staff, usually regarding problems with your repository (make sure to resolve these issues immediately)
-- during the Friday presentations, you'll get feedback from fellow students on the direction that you're taking with your project (take this very seriously)
+- in the first week, you should receive approval (via this website) for your project proposal and design document; this approval is required to continue the course
+- the daily standups include many different activities that allow you to receive feedback from your fellow students
+- you may get a few "issues" entered for your GitHub project by the staff, usually regarding problems with your repository; make sure to resolve these issues immediately
 
-It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer.
+It is your own responsibility in this course to make sure you get the feedback you need. In particular, make sure that you get some feedback on your documents long before the approval deadline! In cases of conflicting feedback, always ask your instructor for a definitive answer. If you can't find your instructor, send an e-mail.
 
 
 ## Assessment
