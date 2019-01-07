@@ -5,7 +5,7 @@ Apps (Winter):
         'Design document [Tuesday]': '/milestones/design-document'
         'Prototype [Thursday]': '/milestones/prototype-version'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 2:
@@ -13,14 +13,14 @@ Apps (Winter):
         'div1': '---'
         'Alpha version [Thursday]': '/milestones/alpha-version'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 3:
         'Overview': '/overview/week-3'
         'Create a beta version [Thursday]': '/milestones/beta-version'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 4:
@@ -30,7 +30,7 @@ Apps (Winter):
         'Product video [Thursday]': '/milestones/product-demo'
         'Presentation [Friday]': '/milestones/product-demo'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
 Data (Winter):
@@ -40,7 +40,7 @@ Data (Winter):
         'Design document [Tuesday]': '/milestones/design-document'
         'Prototype [Thursday]': '/milestones/prototype-version'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 2:
@@ -48,14 +48,14 @@ Data (Winter):
         'div1': '---'
         'Alpha version [Thursday]': '/milestones/alpha-version'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 3:
         'Overview': '/overview/week-3'
         'Create a beta version [Thursday]': '/milestones/beta-version'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
     Week 4:
@@ -65,6 +65,6 @@ Data (Winter):
         'Product video [Thursday]': '/milestones/product-demo'
         'Presentation [Friday]': '/milestones/product-demo'
         'div2': '---'
-        'Daily standups': '/reference/daily-standup'
+        'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
