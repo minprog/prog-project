@@ -56,7 +56,8 @@ As expected in a project course, you will spend most of your day designing and c
 You are required to attend every project day (20 days) between 9:30 and 16:30. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
 - the first Monday (because of the first deadline)
-- every Friday presentation session for your assigned group
+- the Hackathon
+- the final Friday
 
 Your attendance will be noted as you "ask" a question through the website and subsequently discuss your design or a problem with a member of staff. Make sure you ask at least one question each day!
 
