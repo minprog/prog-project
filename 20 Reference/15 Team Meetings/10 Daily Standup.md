@@ -22,7 +22,12 @@ Show your technical design and explain what you still have to research to get yo
 
 ### Week 2
 
-Show your progress from last week. Then, take an hour or so to create a basic style guide with your team! Find style guides on the internet, specifically for your platform, and then write your own based on the ideas from those guides. Add the style guide to your repo as `STYLEGUIDE.md`.
+Show your progress from last week. Then, take an hour or so to create a basic style guide with your team! Find style guides on the internet, specifically for your platform (google "d3 style guide", "javascript style guide"), and then write your own guide based on the ideas from those guides. Then put in your style guide:
+
+- 10 (or so) basic rules that any code in your repository should follow
+- a couple of links to style guides on the web, for each explaining what part of those guides your code will adhere to
+
+Add the style guide to your own repo as `STYLE.md`. Everyone is allowed to choose their own style rules, as long as they are reasonably in line with what "professionals" do.
 
 ### Week 3
 
