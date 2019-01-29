@@ -32,7 +32,7 @@ Submit your final code by *push*ing it to GitHub. Make sure you are not missing 
 - the old **PROPOSAL.md** (unchanged from week 1)
 - the old **DESIGN.md** (unchanged from week 1)
 - the old **PROCESS.md**
-- **REVIEW.md** as instructed by e-mail
+- **STYLE.md** from your group assignment
 - a new **REPORT.md**
 - a **docs** folder for the images in your documents
 - a separate folder containing your project's code
