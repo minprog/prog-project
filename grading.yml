@@ -1,7 +1,7 @@
 grades:
     proposal:
         type: pass
-    github:
+    link:
         type: float
         subgrades:
             solution: integer
