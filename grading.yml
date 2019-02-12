@@ -5,10 +5,10 @@ grades:
         type: float
         subgrades:
             solution: integer
-            implementation: integer
+            design: integer
             process: integer
-            code: integer
             report: integer
+            code: integer
         calculation: ((solution + implementation + process + code + report) / 25.0 * 9 + 1).round(1)
 
 calculation:
