@@ -12,10 +12,10 @@ grades:
         calculation: ((solution + design + process + code + report) / 25.0 * 9 + 1).round(1)
 
 calculation:
-    normal:
+    final:
         all: 1
 
 all:
     required: true
     submits:
-        github: 1
+        link: 1
