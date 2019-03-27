@@ -2,7 +2,7 @@
 
 Here we list the requirements that all submitted projects should accommodate. *Functional requirements* define the scope of the projects, and *implementation details* make sure all projects can be graded in the same way, and ensure usefulness to a broad audience.
 
-## Mobile app
+## Mobile or Web app
 
 Functional requirements:
 
