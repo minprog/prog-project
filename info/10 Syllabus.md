@@ -29,7 +29,7 @@ Your application will be developed taking into account the following milestones:
 
 | Week 1                        | Deadline             |  
 | ----------------------------- | -------------------- |  
-| Project proposal              | before course start  |  
+| [Project proposal](/milestones/project-proposal) | before course start  |  
 | Complete user interface sketches | Monday, 17:59     |
 | Design document               | Tuesday, 17:59       |  
 | First working prototype       | Friday, 17:59        |  
