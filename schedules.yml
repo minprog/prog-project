@@ -50,3 +50,55 @@ Data (Winter):
         'Team meetings': '/reference/team-meetings'
         'Process book': '/reference/process-book'
         'GitHub issues': '/reference/issues'
+Apps (Summer):
+    Week 1:
+        'Overview': '/overview/week-1'
+        'Proposal [Monday]': '/milestones/project-proposal'
+        'Design document [Tuesday]': '/milestones/design-document'
+        'Prototype [Thursday]': '/milestones/prototype-version'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+    Week 2:
+        'Alpha version [Thursday]': '/milestones/alpha-version'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+    Week 3:
+        'Create a beta version [Thursday]': '/milestones/beta-version'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+    Week 4:
+        'Final product [Wednesday]': '/milestones/final-version'
+        'Final report [Thursday]': '/milestones/final-report'
+        'Product video [Thursday]': '/milestones/product-demo'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+Data (Summer):
+    Week 1:
+        'Overview': '/overview/week-1'
+        'Proposal [Monday]': '/milestones/project-proposal'
+        'Design document [Tuesday]': '/milestones/design-document'
+        'Prototype [Thursday]': '/milestones/prototype-version'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+    Week 2:
+        'Alpha version [Thursday]': '/milestones/alpha-version'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+    Week 3:
+        'Create a beta version [Thursday]': '/milestones/beta-version'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
+    Week 4:
+        'Final product [Wednesday]': '/milestones/final-version'
+        'Final report [Thursday]': '/milestones/final-report'
+        'Product video [Thursday]': '/milestones/product-demo'
+        'Team meetings': '/reference/team-meetings'
+        'Process book': '/reference/process-book'
+        'GitHub issues': '/reference/issues'
