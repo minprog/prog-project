@@ -21,4 +21,4 @@ Your repository will be checked for completeness and you may not proceed if one 
 
 ## Repository
 
-Commit and push all new code to GitHub. Don't forget to update your **README.md** if you have made any incompatible decisions, and push that file, too! Go on to setup the integration with Better Code Hub.
+Commit and push all new code to GitHub. Don't forget to update your **README.md** if you have made any incompatible decisions, and push that file, too!
