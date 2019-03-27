@@ -1,6 +1,6 @@
 # Project Proposal
 
-You'll spend the first **day** building a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world.  Below, we list all required aspects of your proposal document.
+You'll kick off your project by handing in a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world. Below, we list all required aspects of your proposal document.
 
 ## Getting started
 
@@ -23,20 +23,18 @@ By writing a clear proposal document and getting feedback on it from multiple st
 
 ## Problem statement
 
-Write a statement about the problem that your finished product will solve. The problem[^1] has to be clearly described and very specific. We see two possibilities:
+Write a brief statement, four lines of text, about the problem that your finished product will solve. The problem has to be clearly described and very specific. We see two possibilities:
 
 - There is a clearly defined problem that a reasonably large group of people have, which an app or visualization can solve particularly well.
 - There is a widespread lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
 
 In both cases, you should be able to define a target audience who have specific interests that match your project. Include that, too.
 
-In total, keep the problem statement to four lines of text.
-
 ## Solution
 
 Describe your solution in full detail.
 
-- Summarize your idea in a single sentence, connecting it to the "gap" that you describe.
+- Summarize your idea in a single sentence, connecting it to the problem that you have defined.
 
 - Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions, and include concrete examples of data. Your sketches do not have to be professional-looking, but they have to be complete and neat!
 
@@ -55,7 +53,7 @@ Example sketch for a data visualization
 </div>
 </div>
 
-- Include a list of **main features** that will be available to users. All features should also be visible in the sketch. Keep it brief.
+- Include a brief list of **main features** that will be available to users. All features should also be visible in the sketch. If you have complicated features, it might be good to create a separate sketch for each feature.
 
 - Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
@@ -91,5 +89,3 @@ Don't commit any code yet! Your repository should be clean for us to read, conta
 The next step in your project is creating a design document. There, you'll describe how your project will be created according to the rules of the application framework that you're using.
 
 Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
-
-[^1]: *"The problem need not be a pressing societal need, but rather any perceived gap in a situation or experience. For example, the Insalata Caprese is a wonderful artifact, but hardly addresses a problem in the deepest sense of the word. [...] In effect, problem definition is the creation by the designer of an explanation of why the user experiences a gap. This diagnosis can be thought of as an identification of user needs that are not being met in the current state and/or the recognition of criteria for a high-quality solution."*---Karl Ulrich, Design (2011).
