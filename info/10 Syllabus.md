@@ -35,7 +35,6 @@ Your application will be developed taking into account the following milestones:
 | **Week 2**                    | **Deadline**         |  
 | Incomplete alpha version      | Friday, 17:59        |  
 | **Week 3**                    | **Deadline**         |  
-| Hackathon 👾🎉💪❤️☃️             | Thursday             |  
 | Feature-complete beta version | Friday, 17:59        |  
 | **Week 4**                    | **Deadline**         |  
 | Final product                 | Wednesday, 17:59     |  
