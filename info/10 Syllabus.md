@@ -1,6 +1,6 @@
 # Programmeerproject<br><small>Studiewijzer</small>
 
-*Winter 2019*
+*Summer 2019*
 
 This project is the final course of the programming minor, and for the first time, you'll be able to create your very own piece of software from scratch. With this experience, we hope to enable you to independently study computer science or go out in the world and start creating your own software.
 
@@ -8,10 +8,9 @@ This project is the final course of the programming minor, and for the first tim
 ## Staff
 
 [Martijn Stegeman](mailto:help@mprog.nl) (instructor)  
-Kim de Bie  
+Jasper den Duijf  
 Nigel van Herwijnen  
 Marijn Jansen  
-Tim Meijer  
 Renske Talsma  
 Natasja Wezel
 
