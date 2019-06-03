@@ -61,7 +61,6 @@ Your application will be developed taking into account the following milestones:
 You are required to attend every project day (20 days) between 9:30 and 16:30. You are allowed to miss 10% of this time during the course, but you must in any case attend:
 
 - the first Monday
-- the Hackathon
 - the final Friday
 
 Your attendance will be noted as you "ask" a question through the website and subsequently discuss your design or a problem with a member of staff. Make sure you ask at least one question each day!
