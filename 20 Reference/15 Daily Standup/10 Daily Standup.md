@@ -12,6 +12,8 @@ Be sure to hold this meeting every day at 10 o'clock! We want everyone to be awa
 
 ![embed](https://www.youtube.com/embed/42hFGMVszkQ?rel=0&amp;showinfo=0)
 
+Your meetings will definitely take longer than 15 minutes, because we're also giving you some extra assignments to do during the meetings.
+
 ## Reporting back
 
 You should write a note in your process book, specifically about what you have learned during the daily standup. If you can't think of anything to write, best to ask more feedback about your ideas during the standups!

@@ -8,8 +8,10 @@ This project is the final course of the programming minor, and for the first tim
 ## Staff
 
 [Martijn Stegeman](mailto:help@mprog.nl) (instructor)  
+[Simon Pauw](mailto:help@mprog.nl) (instructor)  
 Jasper den Duijf  
 Nigel van Herwijnen  
+Emma Hokken  
 Marijn Jansen  
 Renske Talsma  
 Natasja Wezel
